@@ -1,0 +1,482 @@
+2025-02-10 04:45:26,248 [INFO] ollama_chat.utils.config:73: Logging configured
+2025-02-10 04:45:26,250 [INFO] ollama_chat.gui.app:21: Starting NexusChat
+2025-02-10 04:45:26,451 [INFO] ollama_chat.backend.service:19: Initializing backend service
+2025-02-10 04:45:26,451 [INFO] ollama_chat.utils.config:106: Loading config
+2025-02-10 04:45:26,451 [INFO] ollama_chat.utils.config:83: Getting config path
+2025-02-10 04:45:26,452 [INFO] ollama_chat.utils.config:94: Config path: /home/nulled/.config/ollama-chat/config.json
+2025-02-10 04:45:26,452 [INFO] ollama_chat.utils.config:110: Loading config from /home/nulled/.config/ollama-chat/config.json
+2025-02-10 04:45:26,453 [INFO] ollama_chat.utils.config:121: Config loaded successfully
+2025-02-10 04:45:26,454 [INFO] ollama_chat.backend.ollama_client:18: Initialized Ollama client with base URL: http://localhost:11434
+2025-02-10 04:45:26,454 [INFO] ollama_chat.backend.history_manager:20: History manager initialized
+2025-02-10 04:45:26,454 [INFO] ollama_chat.backend.chat_manager:26: Initializing chat manager
+2025-02-10 04:45:26,454 [INFO] ollama_chat.backend.chat_manager:35: Chat manager initialized
+2025-02-10 04:45:26,454 [INFO] ollama_chat.backend.service:34: Backend service initialized
+2025-02-10 04:45:26,454 [INFO] ollama_chat.gui.app:74: Backend initialized
+2025-02-10 04:45:26,454 [INFO] ollama_chat.gui.model_selector:19: Initializing model selector
+2025-02-10 04:45:26,527 [INFO] ollama_chat.gui.model_selector:112: Model selector widgets created
+2025-02-10 04:45:26,528 [INFO] ollama_chat.gui.model_selector:124: Model selector bindings setup
+2025-02-10 04:45:26,528 [INFO] ollama_chat.gui.model_selector:135: Model selector message queue initialized
+2025-02-10 04:45:26,528 [INFO] ollama_chat.gui.model_selector:43: Model selector initialized
+2025-02-10 04:45:26,528 [INFO] ollama_chat.gui.chat_window:31: Initializing chat window
+2025-02-10 04:45:26,532 [INFO] ollama_chat.gui.chat_window:63: Creating chat window widgets
+2025-02-10 04:45:26,679 [INFO] ollama_chat.gui.chat_window:104: Chat window widgets created
+2025-02-10 04:45:26,679 [INFO] ollama_chat.gui.chat_window:113: Setting up chat window bindings
+2025-02-10 04:45:26,680 [INFO] ollama_chat.gui.chat_window:119: Chat window bindings setup
+2025-02-10 04:45:26,680 [INFO] ollama_chat.gui.chat_window:128: Initializing chat window message queue
+2025-02-10 04:45:26,680 [INFO] ollama_chat.gui.chat_window:133: Chat window message queue initialized
+2025-02-10 04:45:26,680 [INFO] ollama_chat.gui.chat_window:54: Chat window initialized
+2025-02-10 04:45:26,680 [INFO] ollama_chat.gui.app:97: GUI initialized
+2025-02-10 04:45:26,680 [INFO] ollama_chat.gui.app:41: NexusChat initialized
+2025-02-10 04:45:26,680 [INFO] ollama_chat.gui.model_selector:198: Loading models
+2025-02-10 04:45:26,682 [INFO] ollama_chat.backend.service:106: Listing models
+2025-02-10 04:45:26,683 [INFO] ollama_chat.backend.chat_manager:57: Listing models
+2025-02-10 04:45:26,683 [INFO] ollama_chat.backend.ollama_client:98: Listing available models
+2025-02-10 04:45:26,767 [INFO] ollama_chat.backend.ollama_client:105: Found 8 models: ['deepseek-coder:6.7b-base', 'deepseek-coder:1.3b', 'solar:latest', 'phi:latest', 'orca-mini:latest', 'llama3.2:latest', 'mistral:latest', 'neural-chat:latest']
+2025-02-10 04:45:26,770 [INFO] ollama_chat.gui.model_selector:223: Models loaded: ['deepseek-coder:6.7b-base', 'deepseek-coder:1.3b', 'solar:latest', 'phi:latest', 'orca-mini:latest', 'llama3.2:latest', 'mistral:latest', 'neural-chat:latest']
+2025-02-10 04:45:42,297 [INFO] ollama_chat.backend.service:124: Sending message
+2025-02-10 04:45:42,297 [INFO] ollama_chat.backend.chat_manager:74: Sending message
+2025-02-10 04:45:42,297 [ERROR] ollama_chat.backend.chat_manager:114: Error sending message: No model selected
+2025-02-10 04:45:42,297 [ERROR] ollama_chat.backend.service:128: Error sending message: No model selected
+2025-02-10 04:45:42,298 [ERROR] ollama_chat.gui.chat_window:291: Error processing message: No model selected
+2025-02-10 04:45:51,024 [INFO] ollama_chat.gui.model_selector:176: Loading model: deepseek-coder:6.7b-base
+2025-02-10 04:45:51,025 [ERROR] ollama_chat.gui.model_selector:192: Error loading model: 'BackendService' object has no attribute 'load_model'
+2025-02-10 04:46:01,296 [INFO] ollama_chat.backend.service:124: Sending message
+2025-02-10 04:46:01,296 [INFO] ollama_chat.backend.chat_manager:74: Sending message
+2025-02-10 04:46:01,296 [ERROR] ollama_chat.backend.chat_manager:114: Error sending message: No model selected
+2025-02-10 04:46:01,296 [ERROR] ollama_chat.backend.service:128: Error sending message: No model selected
+2025-02-10 04:46:01,296 [ERROR] ollama_chat.gui.chat_window:291: Error processing message: No model selected
+2025-02-10 04:46:05,788 [INFO] ollama_chat.gui.model_selector:168: Selected model: solar:latest
+2025-02-10 04:46:10,617 [INFO] ollama_chat.gui.model_selector:168: Selected model: deepseek-coder:6.7b-base
+2025-02-10 04:46:17,950 [INFO] ollama_chat.backend.service:124: Sending message
+2025-02-10 04:46:17,950 [INFO] ollama_chat.backend.chat_manager:74: Sending message
+2025-02-10 04:46:17,950 [ERROR] ollama_chat.backend.chat_manager:114: Error sending message: No model selected
+2025-02-10 04:46:17,950 [ERROR] ollama_chat.backend.service:128: Error sending message: No model selected
+2025-02-10 04:46:17,950 [ERROR] ollama_chat.gui.chat_window:291: Error processing message: No model selected
+2025-02-10 04:47:28,838 [INFO] ollama_chat.utils.config:73: Logging configured
+2025-02-10 04:47:28,842 [INFO] ollama_chat.gui.app:21: Starting NexusChat
+2025-02-10 04:47:29,044 [INFO] ollama_chat.backend.service:19: Initializing backend service
+2025-02-10 04:47:29,044 [INFO] ollama_chat.utils.config:106: Loading config
+2025-02-10 04:47:29,044 [INFO] ollama_chat.utils.config:83: Getting config path
+2025-02-10 04:47:29,045 [INFO] ollama_chat.utils.config:94: Config path: /home/nulled/.config/ollama-chat/config.json
+2025-02-10 04:47:29,045 [INFO] ollama_chat.utils.config:110: Loading config from /home/nulled/.config/ollama-chat/config.json
+2025-02-10 04:47:29,045 [INFO] ollama_chat.utils.config:121: Config loaded successfully
+2025-02-10 04:47:29,045 [INFO] ollama_chat.backend.ollama_client:18: Initialized Ollama client with base URL: http://localhost:11434
+2025-02-10 04:47:29,045 [INFO] ollama_chat.backend.history_manager:20: History manager initialized
+2025-02-10 04:47:29,045 [INFO] ollama_chat.backend.chat_manager:26: Initializing chat manager
+2025-02-10 04:47:29,045 [INFO] ollama_chat.backend.chat_manager:35: Chat manager initialized
+2025-02-10 04:47:29,045 [INFO] ollama_chat.backend.service:34: Backend service initialized
+2025-02-10 04:47:29,045 [INFO] ollama_chat.gui.app:74: Backend initialized
+2025-02-10 04:47:29,045 [INFO] ollama_chat.gui.model_selector:31: Initializing model selector
+2025-02-10 04:47:29,060 [INFO] ollama_chat.gui.model_selector:60: Creating model selector widgets
+2025-02-10 04:47:29,148 [INFO] ollama_chat.gui.model_selector:89: Model selector widgets created
+2025-02-10 04:47:29,148 [INFO] ollama_chat.gui.model_selector:98: Loading models
+2025-02-10 04:47:29,148 [INFO] ollama_chat.gui.model_selector:51: Model selector initialized
+2025-02-10 04:47:29,148 [INFO] ollama_chat.gui.chat_window:31: Initializing chat window
+2025-02-10 04:47:29,154 [INFO] ollama_chat.gui.chat_window:63: Creating chat window widgets
+2025-02-10 04:47:29,214 [INFO] ollama_chat.gui.chat_window:104: Chat window widgets created
+2025-02-10 04:47:29,214 [INFO] ollama_chat.gui.chat_window:113: Setting up chat window bindings
+2025-02-10 04:47:29,214 [INFO] ollama_chat.gui.chat_window:119: Chat window bindings setup
+2025-02-10 04:47:29,214 [INFO] ollama_chat.gui.chat_window:128: Initializing chat window message queue
+2025-02-10 04:47:29,215 [INFO] ollama_chat.gui.chat_window:133: Chat window message queue initialized
+2025-02-10 04:47:29,215 [INFO] ollama_chat.gui.chat_window:54: Chat window initialized
+2025-02-10 04:47:29,215 [INFO] ollama_chat.gui.app:97: GUI initialized
+2025-02-10 04:47:29,215 [INFO] ollama_chat.gui.app:41: NexusChat initialized
+2025-02-10 04:47:29,215 [INFO] ollama_chat.backend.service:106: Listing models
+2025-02-10 04:47:29,215 [INFO] ollama_chat.backend.chat_manager:57: Listing models
+2025-02-10 04:47:29,215 [INFO] ollama_chat.backend.ollama_client:98: Listing available models
+2025-02-10 04:47:29,299 [INFO] ollama_chat.backend.ollama_client:105: Found 8 models: ['deepseek-coder:6.7b-base', 'deepseek-coder:1.3b', 'solar:latest', 'phi:latest', 'orca-mini:latest', 'llama3.2:latest', 'mistral:latest', 'neural-chat:latest']
+2025-02-10 04:47:29,300 [INFO] ollama_chat.backend.service:92: Getting current model
+2025-02-10 04:47:29,301 [INFO] ollama_chat.gui.model_selector:131: Models loaded: ['deepseek-coder:6.7b-base', 'deepseek-coder:1.3b', 'solar:latest', 'phi:latest', 'orca-mini:latest', 'llama3.2:latest', 'mistral:latest', 'neural-chat:latest']
+2025-02-10 04:47:46,840 [INFO] ollama_chat.gui.model_selector:159: Load button clicked
+2025-02-10 04:47:46,841 [INFO] ollama_chat.backend.service:74: Setting model to deepseek-coder:6.7b-base
+2025-02-10 04:47:46,841 [INFO] ollama_chat.backend.chat_manager:48: Setting model to deepseek-coder:6.7b-base
+2025-02-10 04:47:46,841 [INFO] ollama_chat.utils.config:133: Saving config
+2025-02-10 04:47:46,841 [INFO] ollama_chat.utils.config:83: Getting config path
+2025-02-10 04:47:46,841 [INFO] ollama_chat.utils.config:94: Config path: /home/nulled/.config/ollama-chat/config.json
+2025-02-10 04:47:46,841 [INFO] ollama_chat.utils.config:137: Saving config to /home/nulled/.config/ollama-chat/config.json
+2025-02-10 04:47:46,842 [INFO] ollama_chat.utils.config:143: Config saved successfully
+2025-02-10 04:47:46,842 [INFO] ollama_chat.gui.model_selector:172: Model loaded: deepseek-coder:6.7b-base
+2025-02-10 04:47:50,791 [INFO] ollama_chat.backend.service:124: Sending message
+2025-02-10 04:47:50,791 [INFO] ollama_chat.backend.chat_manager:74: Sending message
+2025-02-10 04:47:50,791 [INFO] ollama_chat.backend.history_manager:30: Message added to history
+2025-02-10 04:47:50,791 [DEBUG] ollama_chat.backend.ollama_client:129: DeepSeek Chat Request:
+2025-02-10 04:47:50,791 [DEBUG] ollama_chat.backend.ollama_client:130: Model: deepseek-coder:6.7b-base
+2025-02-10 04:47:50,791 [DEBUG] ollama_chat.backend.ollama_client:131: Message: code example
+2025-02-10 04:47:50,791 [DEBUG] ollama_chat.backend.ollama_client:132: Request format: Using Ollama chat API with streaming
+2025-02-10 04:47:58,716 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: 
+
+2025-02-10 04:47:58,992 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: ========
+2025-02-10 04:47:59,252 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: ====
+2025-02-10 04:47:59,501 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: =
+2025-02-10 04:47:59,756 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: 
+
+2025-02-10 04:48:00,014 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: 
+
+2025-02-10 04:48:00,260 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: ..
+2025-02-10 04:48:00,513 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received:  code
+2025-02-10 04:48:00,754 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: -
+2025-02-10 04:48:01,002 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: block
+2025-02-10 04:48:01,244 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: ::
+2025-02-10 04:48:01,497 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received:  c
+2025-02-10 04:48:01,740 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: pp
+2025-02-10 04:48:01,994 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: 
+
+2025-02-10 04:48:02,236 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: 
+
+2025-02-10 04:48:02,489 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received:    
+2025-02-10 04:48:02,723 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received:  #
+2025-02-10 04:48:02,968 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: include
+2025-02-10 04:48:03,225 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received:  "
+2025-02-10 04:48:03,474 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: g
+2025-02-10 04:48:03,732 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: sl
+2025-02-10 04:48:03,980 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: /
+2025-02-10 04:48:04,228 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: span
+2025-02-10 04:48:04,472 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: "
+2025-02-10 04:48:04,716 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: 
+
+2025-02-10 04:48:04,987 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received:     
+2025-02-10 04:48:05,242 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: 
+
+2025-02-10 04:48:05,485 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received:    
+2025-02-10 04:48:05,748 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received:  int
+2025-02-10 04:48:05,989 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received:  main
+2025-02-10 04:48:06,241 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: ()
+2025-02-10 04:48:06,491 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received:  {
+2025-02-10 04:48:06,742 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: 
+
+2025-02-10 04:48:06,985 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received:      
+2025-02-10 04:48:07,243 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received:  const
+2025-02-10 04:48:07,476 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: expr
+2025-02-10 04:48:07,736 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received:  g
+2025-02-10 04:48:08,010 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: sl
+2025-02-10 04:48:08,279 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: ::
+2025-02-10 04:48:08,529 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: span
+2025-02-10 04:48:08,793 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: <
+2025-02-10 04:48:09,036 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: int
+2025-02-10 04:48:09,283 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: >
+2025-02-10 04:48:09,535 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received:  s
+2025-02-10 04:48:09,784 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received:  =
+2025-02-10 04:48:10,035 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received:  {
+2025-02-10 04:48:10,292 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: 1
+2025-02-10 04:48:10,553 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: ,
+2025-02-10 04:48:10,798 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received:  
+2025-02-10 04:48:11,058 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: 2
+2025-02-10 04:48:11,290 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: ,
+2025-02-10 04:48:11,525 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received:  
+2025-02-10 04:48:11,778 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: 3
+2025-02-10 04:48:12,038 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: };
+2025-02-10 04:48:12,294 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: 
+
+2025-02-10 04:48:12,546 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received:      
+2025-02-10 04:48:12,808 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received:  static
+2025-02-10 04:48:13,067 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: _
+2025-02-10 04:48:13,327 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: assert
+2025-02-10 04:48:13,580 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: (
+2025-02-10 04:48:13,872 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: s
+2025-02-10 04:48:14,167 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: .
+2025-02-10 04:48:14,443 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: size
+2025-02-10 04:48:14,695 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: ()
+2025-02-10 04:48:14,955 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received:  == 
+2025-02-10 04:48:15,237 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: 3
+2025-02-10 04:48:15,502 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: );
+2025-02-10 04:48:15,763 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received:  //
+2025-02-10 04:48:16,036 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received:  OK
+2025-02-10 04:48:16,292 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: :
+2025-02-10 04:48:16,533 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received:  size
+2025-02-10 04:48:16,785 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received:  is
+2025-02-10 04:48:17,065 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received:  a
+2025-02-10 04:48:17,296 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received:  compile
+2025-02-10 04:48:17,552 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: -
+2025-02-10 04:48:17,812 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: time
+2025-02-10 04:48:18,075 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received:  constant
+2025-02-10 04:48:18,309 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: 
+
+2025-02-10 04:48:18,584 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received:      
+2025-02-10 04:48:18,828 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received:  static
+2025-02-10 04:48:19,089 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: _
+2025-02-10 04:48:19,345 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: assert
+2025-02-10 04:48:19,601 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: (
+2025-02-10 04:48:19,858 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: std
+2025-02-10 04:48:20,110 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: ::
+2025-02-10 04:48:20,363 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: is
+2025-02-10 04:48:20,618 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: _
+2025-02-10 04:48:20,859 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: same
+2025-02-10 04:48:21,109 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: _
+2025-02-10 04:48:21,362 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: v
+2025-02-10 04:48:21,606 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: <
+2025-02-10 04:48:21,862 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: g
+2025-02-10 04:48:22,114 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: sl
+2025-02-10 04:48:22,364 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: ::
+2025-02-10 04:48:22,607 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: index
+2025-02-10 04:48:22,861 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: ,
+2025-02-10 04:48:23,121 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received:  decl
+2025-02-10 04:48:23,381 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: type
+2025-02-10 04:48:23,646 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: (
+2025-02-10 04:48:23,915 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: s
+2025-02-10 04:48:24,172 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: )
+2025-02-10 04:48:24,435 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: ::
+2025-02-10 04:48:24,704 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: index
+2025-02-10 04:48:24,987 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: _
+2025-02-10 04:48:25,251 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: type
+2025-02-10 04:48:25,494 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: >
+2025-02-10 04:48:25,754 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: );
+2025-02-10 04:48:26,060 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: 
+
+2025-02-10 04:48:26,331 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received:    
+2025-02-10 04:48:26,588 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received:  }
+2025-02-10 04:48:26,847 [DEBUG] ollama_chat.backend.ollama_client:202: DeepSeek chunk received: 
+2025-02-10 04:48:26,848 [DEBUG] ollama_chat.backend.ollama_client:235: DeepSeek chat response completed
+2025-02-10 04:48:26,848 [INFO] ollama_chat.backend.history_manager:30: Message added to history
+2025-02-10 04:50:48,135 [INFO] ollama_chat.utils.config:73: Logging configured
+2025-02-10 04:50:48,163 [INFO] ollama_chat.gui.app:21: Starting NexusChat
+2025-02-10 04:50:48,398 [INFO] ollama_chat.backend.service:19: Initializing backend service
+2025-02-10 04:50:48,398 [INFO] ollama_chat.utils.config:106: Loading config
+2025-02-10 04:50:48,398 [INFO] ollama_chat.utils.config:83: Getting config path
+2025-02-10 04:50:48,399 [INFO] ollama_chat.utils.config:94: Config path: /home/nulled/.config/ollama-chat/config.json
+2025-02-10 04:50:48,399 [INFO] ollama_chat.utils.config:110: Loading config from /home/nulled/.config/ollama-chat/config.json
+2025-02-10 04:50:48,399 [INFO] ollama_chat.utils.config:121: Config loaded successfully
+2025-02-10 04:50:48,399 [INFO] ollama_chat.backend.ollama_client:18: Initialized Ollama client with base URL: http://localhost:11434
+2025-02-10 04:50:48,400 [INFO] ollama_chat.backend.history_manager:20: History manager initialized
+2025-02-10 04:50:48,400 [INFO] ollama_chat.backend.chat_manager:26: Initializing chat manager
+2025-02-10 04:50:48,400 [INFO] ollama_chat.backend.chat_manager:35: Chat manager initialized
+2025-02-10 04:50:48,400 [INFO] ollama_chat.backend.service:34: Backend service initialized
+2025-02-10 04:50:48,400 [INFO] ollama_chat.gui.app:74: Backend initialized
+2025-02-10 04:50:48,400 [INFO] ollama_chat.gui.model_selector:31: Initializing model selector
+2025-02-10 04:50:48,422 [INFO] ollama_chat.gui.model_selector:60: Creating model selector widgets
+2025-02-10 04:50:48,561 [INFO] ollama_chat.gui.model_selector:89: Model selector widgets created
+2025-02-10 04:50:48,561 [INFO] ollama_chat.gui.model_selector:98: Loading models
+2025-02-10 04:50:48,561 [INFO] ollama_chat.gui.model_selector:51: Model selector initialized
+2025-02-10 04:50:48,562 [INFO] ollama_chat.gui.chat_window:36: Initializing chat window
+2025-02-10 04:50:48,568 [INFO] ollama_chat.gui.chat_window:68: Creating chat window widgets
+2025-02-10 04:50:48,676 [INFO] ollama_chat.gui.chat_window:161: Chat window widgets created
+2025-02-10 04:50:48,676 [INFO] ollama_chat.gui.chat_window:286: Setting up chat window bindings
+2025-02-10 04:50:48,676 [INFO] ollama_chat.gui.chat_window:292: Chat window bindings setup
+2025-02-10 04:50:48,676 [INFO] ollama_chat.gui.chat_window:301: Initializing chat window message queue
+2025-02-10 04:50:48,676 [INFO] ollama_chat.gui.chat_window:306: Chat window message queue initialized
+2025-02-10 04:50:48,676 [INFO] ollama_chat.gui.chat_window:59: Chat window initialized
+2025-02-10 04:50:48,676 [INFO] ollama_chat.gui.app:97: GUI initialized
+2025-02-10 04:50:48,677 [INFO] ollama_chat.gui.app:41: NexusChat initialized
+2025-02-10 04:50:48,677 [INFO] ollama_chat.backend.service:106: Listing models
+2025-02-10 04:50:48,677 [INFO] ollama_chat.backend.chat_manager:57: Listing models
+2025-02-10 04:50:48,677 [INFO] ollama_chat.backend.ollama_client:98: Listing available models
+2025-02-10 04:50:48,895 [INFO] ollama_chat.backend.ollama_client:105: Found 8 models: ['deepseek-coder:6.7b-base', 'deepseek-coder:1.3b', 'solar:latest', 'phi:latest', 'orca-mini:latest', 'llama3.2:latest', 'mistral:latest', 'neural-chat:latest']
+2025-02-10 04:50:48,896 [INFO] ollama_chat.backend.service:92: Getting current model
+2025-02-10 04:50:48,897 [INFO] ollama_chat.gui.model_selector:131: Models loaded: ['deepseek-coder:6.7b-base', 'deepseek-coder:1.3b', 'solar:latest', 'phi:latest', 'orca-mini:latest', 'llama3.2:latest', 'mistral:latest', 'neural-chat:latest']
+2025-02-10 04:50:52,491 [INFO] ollama_chat.gui.model_selector:159: Load button clicked
+2025-02-10 04:50:52,491 [INFO] ollama_chat.backend.service:74: Setting model to deepseek-coder:6.7b-base
+2025-02-10 04:50:52,492 [INFO] ollama_chat.backend.chat_manager:48: Setting model to deepseek-coder:6.7b-base
+2025-02-10 04:50:52,492 [INFO] ollama_chat.utils.config:133: Saving config
+2025-02-10 04:50:52,492 [INFO] ollama_chat.utils.config:83: Getting config path
+2025-02-10 04:50:52,492 [INFO] ollama_chat.utils.config:94: Config path: /home/nulled/.config/ollama-chat/config.json
+2025-02-10 04:50:52,492 [INFO] ollama_chat.utils.config:137: Saving config to /home/nulled/.config/ollama-chat/config.json
+2025-02-10 04:50:52,493 [INFO] ollama_chat.utils.config:143: Config saved successfully
+2025-02-10 04:50:52,493 [INFO] ollama_chat.gui.model_selector:172: Model loaded: deepseek-coder:6.7b-base
+2025-02-10 04:51:07,242 [ERROR] ollama_chat.gui.chat_window:247: Error displaying message: 'HTMLScrolledText' object has no attribute 'append_html'
+2025-02-10 04:51:07,242 [ERROR] ollama_chat.gui.chat_window:406: Error processing message: 'HTMLScrolledText' object has no attribute 'append_html'
+2025-02-10 04:51:07,242 [ERROR] ollama_chat.gui.chat_window:247: Error displaying message: 'HTMLScrolledText' object has no attribute 'append_html'
+2025-02-10 04:51:07,242 [ERROR] ollama_chat.gui.chat_window:426: Error processing messages: 'HTMLScrolledText' object has no attribute 'append_html'
+2025-02-10 04:51:46,900 [ERROR] ollama_chat.gui.app:140: Error closing application: 'BackendService' object has no attribute 'close'
+2025-02-10 04:51:47,761 [ERROR] ollama_chat.gui.app:140: Error closing application: 'BackendService' object has no attribute 'close'
+2025-02-10 04:51:48,041 [ERROR] ollama_chat.gui.app:140: Error closing application: 'BackendService' object has no attribute 'close'
+2025-02-10 04:51:48,266 [ERROR] ollama_chat.gui.app:140: Error closing application: 'BackendService' object has no attribute 'close'
+2025-02-10 04:51:48,499 [ERROR] ollama_chat.gui.app:140: Error closing application: 'BackendService' object has no attribute 'close'
+2025-02-10 04:51:49,800 [ERROR] ollama_chat.gui.app:140: Error closing application: 'BackendService' object has no attribute 'close'
+2025-02-10 04:51:50,407 [ERROR] ollama_chat.gui.app:140: Error closing application: 'BackendService' object has no attribute 'close'
+2025-02-10 04:51:50,659 [ERROR] ollama_chat.gui.app:140: Error closing application: 'BackendService' object has no attribute 'close'
+2025-02-10 04:58:07,799 [INFO] ollama_chat.utils.config:73: Logging configured
+2025-02-10 04:58:07,837 [INFO] ollama_chat.gui.app:21: Starting NexusChat
+2025-02-10 04:58:08,033 [INFO] ollama_chat.backend.service:19: Initializing backend service
+2025-02-10 04:58:08,033 [INFO] ollama_chat.utils.config:106: Loading config
+2025-02-10 04:58:08,033 [INFO] ollama_chat.utils.config:83: Getting config path
+2025-02-10 04:58:08,033 [INFO] ollama_chat.utils.config:94: Config path: /home/nulled/.config/ollama-chat/config.json
+2025-02-10 04:58:08,033 [INFO] ollama_chat.utils.config:110: Loading config from /home/nulled/.config/ollama-chat/config.json
+2025-02-10 04:58:08,033 [INFO] ollama_chat.utils.config:121: Config loaded successfully
+2025-02-10 04:58:08,033 [INFO] ollama_chat.backend.ollama_client:18: Initialized Ollama client with base URL: http://localhost:11434
+2025-02-10 04:58:08,034 [INFO] ollama_chat.backend.history_manager:20: History manager initialized
+2025-02-10 04:58:08,034 [INFO] ollama_chat.backend.chat_manager:26: Initializing chat manager
+2025-02-10 04:58:08,034 [INFO] ollama_chat.backend.chat_manager:35: Chat manager initialized
+2025-02-10 04:58:08,034 [INFO] ollama_chat.backend.service:34: Backend service initialized
+2025-02-10 04:58:08,034 [INFO] ollama_chat.gui.app:74: Backend initialized
+2025-02-10 04:58:08,034 [INFO] ollama_chat.gui.model_selector:31: Initializing model selector
+2025-02-10 04:58:08,049 [INFO] ollama_chat.gui.model_selector:60: Creating model selector widgets
+2025-02-10 04:58:08,142 [INFO] ollama_chat.gui.model_selector:89: Model selector widgets created
+2025-02-10 04:58:08,142 [INFO] ollama_chat.gui.model_selector:98: Loading models
+2025-02-10 04:58:08,142 [INFO] ollama_chat.gui.model_selector:51: Model selector initialized
+2025-02-10 04:58:08,142 [INFO] ollama_chat.gui.chat_window:34: Initializing chat window
+2025-02-10 04:59:38,305 [INFO] ollama_chat.utils.config:73: Logging configured
+2025-02-10 04:59:38,336 [INFO] ollama_chat.gui.app:21: Starting NexusChat
+2025-02-10 04:59:38,528 [INFO] ollama_chat.backend.service:19: Initializing backend service
+2025-02-10 04:59:38,528 [INFO] ollama_chat.utils.config:106: Loading config
+2025-02-10 04:59:38,528 [INFO] ollama_chat.utils.config:83: Getting config path
+2025-02-10 04:59:38,528 [INFO] ollama_chat.utils.config:94: Config path: /home/nulled/.config/ollama-chat/config.json
+2025-02-10 04:59:38,528 [INFO] ollama_chat.utils.config:110: Loading config from /home/nulled/.config/ollama-chat/config.json
+2025-02-10 04:59:38,528 [INFO] ollama_chat.utils.config:121: Config loaded successfully
+2025-02-10 04:59:38,528 [INFO] ollama_chat.backend.ollama_client:18: Initialized Ollama client with base URL: http://localhost:11434
+2025-02-10 04:59:38,528 [INFO] ollama_chat.backend.history_manager:20: History manager initialized
+2025-02-10 04:59:38,528 [INFO] ollama_chat.backend.chat_manager:26: Initializing chat manager
+2025-02-10 04:59:38,528 [INFO] ollama_chat.backend.chat_manager:35: Chat manager initialized
+2025-02-10 04:59:38,528 [INFO] ollama_chat.backend.service:34: Backend service initialized
+2025-02-10 04:59:38,529 [INFO] ollama_chat.gui.app:74: Backend initialized
+2025-02-10 04:59:38,529 [INFO] ollama_chat.gui.model_selector:31: Initializing model selector
+2025-02-10 04:59:38,546 [INFO] ollama_chat.gui.model_selector:60: Creating model selector widgets
+2025-02-10 04:59:38,632 [INFO] ollama_chat.gui.model_selector:89: Model selector widgets created
+2025-02-10 04:59:38,632 [INFO] ollama_chat.gui.model_selector:98: Loading models
+2025-02-10 04:59:38,632 [INFO] ollama_chat.gui.model_selector:51: Model selector initialized
+2025-02-10 04:59:38,632 [INFO] ollama_chat.gui.chat_window:34: Initializing chat window
+2025-02-10 04:59:38,731 [INFO] ollama_chat.gui.chat_window:69: Creating chat window widgets
+2025-02-10 04:59:38,775 [ERROR] ollama_chat.gui.chat_window:112: Error creating chat window widgets: arguments did not match any overloaded call:
+  setParent(self, parent: Optional[QWidget]): argument 1 has unexpected type 'int'
+  setParent(self, parent: Optional[QWidget], f: Qt.WindowType): argument 1 has unexpected type 'int'
+2025-02-10 04:59:38,775 [ERROR] ollama_chat.gui.chat_window:63: Error initializing chat window: arguments did not match any overloaded call:
+  setParent(self, parent: Optional[QWidget]): argument 1 has unexpected type 'int'
+  setParent(self, parent: Optional[QWidget], f: Qt.WindowType): argument 1 has unexpected type 'int'
+2025-02-10 04:59:38,775 [ERROR] ollama_chat.gui.app:100: Error initializing GUI: arguments did not match any overloaded call:
+  setParent(self, parent: Optional[QWidget]): argument 1 has unexpected type 'int'
+  setParent(self, parent: Optional[QWidget], f: Qt.WindowType): argument 1 has unexpected type 'int'
+2025-02-10 04:59:38,775 [ERROR] ollama_chat.gui.app:44: Error initializing application: arguments did not match any overloaded call:
+  setParent(self, parent: Optional[QWidget]): argument 1 has unexpected type 'int'
+  setParent(self, parent: Optional[QWidget], f: Qt.WindowType): argument 1 has unexpected type 'int'
+2025-02-10 04:59:38,775 [ERROR] ollama_chat.gui.app:146: Error handling fatal error: arguments did not match any overloaded call:
+  setParent(self, parent: Optional[QWidget]): argument 1 has unexpected type 'int'
+  setParent(self, parent: Optional[QWidget], f: Qt.WindowType): argument 1 has unexpected type 'int'
+2025-02-10 04:59:38,775 [INFO] ollama_chat.backend.service:106: Listing models
+2025-02-10 04:59:38,775 [INFO] ollama_chat.backend.chat_manager:57: Listing models
+2025-02-10 04:59:38,775 [INFO] ollama_chat.backend.ollama_client:98: Listing available models
+2025-02-10 04:59:38,781 [INFO] ollama_chat.backend.ollama_client:105: Found 8 models: ['deepseek-coder:6.7b-base', 'deepseek-coder:1.3b', 'solar:latest', 'phi:latest', 'orca-mini:latest', 'llama3.2:latest', 'mistral:latest', 'neural-chat:latest']
+2025-02-10 04:59:38,782 [INFO] ollama_chat.backend.service:92: Getting current model
+2025-02-10 04:59:38,784 [INFO] ollama_chat.gui.model_selector:131: Models loaded: ['deepseek-coder:6.7b-base', 'deepseek-coder:1.3b', 'solar:latest', 'phi:latest', 'orca-mini:latest', 'llama3.2:latest', 'mistral:latest', 'neural-chat:latest']
+2025-02-10 05:06:33,918 [INFO] ollama_chat.utils.config:73: Logging configured
+2025-02-10 05:06:33,932 [INFO] ollama_chat.gui.app:21: Starting NexusChat
+2025-02-10 05:06:34,117 [INFO] ollama_chat.backend.service:19: Initializing backend service
+2025-02-10 05:06:34,118 [INFO] ollama_chat.utils.config:106: Loading config
+2025-02-10 05:06:34,118 [INFO] ollama_chat.utils.config:83: Getting config path
+2025-02-10 05:06:34,118 [INFO] ollama_chat.utils.config:94: Config path: /home/nulled/.config/ollama-chat/config.json
+2025-02-10 05:06:34,118 [INFO] ollama_chat.utils.config:110: Loading config from /home/nulled/.config/ollama-chat/config.json
+2025-02-10 05:06:34,118 [INFO] ollama_chat.utils.config:121: Config loaded successfully
+2025-02-10 05:06:34,118 [INFO] ollama_chat.backend.ollama_client:18: Initialized Ollama client with base URL: http://localhost:11434
+2025-02-10 05:06:34,118 [INFO] ollama_chat.backend.history_manager:20: History manager initialized
+2025-02-10 05:06:34,118 [INFO] ollama_chat.backend.chat_manager:26: Initializing chat manager
+2025-02-10 05:06:34,119 [INFO] ollama_chat.backend.chat_manager:35: Chat manager initialized
+2025-02-10 05:06:34,119 [INFO] ollama_chat.backend.service:34: Backend service initialized
+2025-02-10 05:06:34,119 [INFO] ollama_chat.gui.app:74: Backend initialized
+2025-02-10 05:06:34,119 [INFO] ollama_chat.gui.model_selector:31: Initializing model selector
+2025-02-10 05:06:34,133 [INFO] ollama_chat.gui.model_selector:60: Creating model selector widgets
+2025-02-10 05:06:34,215 [INFO] ollama_chat.gui.model_selector:89: Model selector widgets created
+2025-02-10 05:06:34,215 [INFO] ollama_chat.gui.model_selector:98: Loading models
+2025-02-10 05:06:34,216 [INFO] ollama_chat.gui.model_selector:51: Model selector initialized
+2025-02-10 05:06:34,216 [INFO] ollama_chat.gui.chat_window:143: Initializing chat window
+2025-02-10 05:06:34,219 [INFO] ollama_chat.gui.chat_window:175: Creating chat window widgets
+2025-02-10 05:06:34,260 [ERROR] ollama_chat.gui.chat_window:233: Error creating chat window widgets: 'EnhancedTextBox' object has no attribute 'tag_configure'
+2025-02-10 05:06:34,261 [ERROR] ollama_chat.gui.chat_window:169: Error initializing chat window: 'EnhancedTextBox' object has no attribute 'tag_configure'
+2025-02-10 05:06:34,261 [ERROR] ollama_chat.gui.app:100: Error initializing GUI: 'EnhancedTextBox' object has no attribute 'tag_configure'
+2025-02-10 05:06:34,261 [ERROR] ollama_chat.gui.app:44: Error initializing application: 'EnhancedTextBox' object has no attribute 'tag_configure'
+2025-02-10 05:06:34,261 [ERROR] ollama_chat.gui.app:146: Error handling fatal error: 'EnhancedTextBox' object has no attribute 'tag_configure'
+2025-02-10 05:06:34,261 [INFO] ollama_chat.backend.service:106: Listing models
+2025-02-10 05:06:34,261 [INFO] ollama_chat.backend.chat_manager:57: Listing models
+2025-02-10 05:06:34,261 [INFO] ollama_chat.backend.ollama_client:98: Listing available models
+2025-02-10 05:06:34,265 [INFO] ollama_chat.backend.ollama_client:105: Found 8 models: ['deepseek-coder:6.7b-base', 'deepseek-coder:1.3b', 'solar:latest', 'phi:latest', 'orca-mini:latest', 'llama3.2:latest', 'mistral:latest', 'neural-chat:latest']
+2025-02-10 05:06:34,265 [INFO] ollama_chat.backend.service:92: Getting current model
+2025-02-10 05:06:34,266 [INFO] ollama_chat.gui.model_selector:131: Models loaded: ['deepseek-coder:6.7b-base', 'deepseek-coder:1.3b', 'solar:latest', 'phi:latest', 'orca-mini:latest', 'llama3.2:latest', 'mistral:latest', 'neural-chat:latest']
+2025-02-10 05:08:08,824 [INFO] ollama_chat.utils.config:73: Logging configured
+2025-02-10 05:08:08,836 [INFO] ollama_chat.gui.app:21: Starting NexusChat
+2025-02-10 05:08:09,029 [INFO] ollama_chat.backend.service:19: Initializing backend service
+2025-02-10 05:08:09,029 [INFO] ollama_chat.utils.config:106: Loading config
+2025-02-10 05:08:09,030 [INFO] ollama_chat.utils.config:83: Getting config path
+2025-02-10 05:08:09,030 [INFO] ollama_chat.utils.config:94: Config path: /home/nulled/.config/ollama-chat/config.json
+2025-02-10 05:08:09,030 [INFO] ollama_chat.utils.config:110: Loading config from /home/nulled/.config/ollama-chat/config.json
+2025-02-10 05:08:09,030 [INFO] ollama_chat.utils.config:121: Config loaded successfully
+2025-02-10 05:08:09,030 [INFO] ollama_chat.backend.ollama_client:18: Initialized Ollama client with base URL: http://localhost:11434
+2025-02-10 05:08:09,030 [INFO] ollama_chat.backend.history_manager:20: History manager initialized
+2025-02-10 05:08:09,030 [INFO] ollama_chat.backend.chat_manager:26: Initializing chat manager
+2025-02-10 05:08:09,030 [INFO] ollama_chat.backend.chat_manager:35: Chat manager initialized
+2025-02-10 05:08:09,030 [INFO] ollama_chat.backend.service:34: Backend service initialized
+2025-02-10 05:08:09,030 [INFO] ollama_chat.gui.app:74: Backend initialized
+2025-02-10 05:08:09,030 [INFO] ollama_chat.gui.model_selector:31: Initializing model selector
+2025-02-10 05:08:09,045 [INFO] ollama_chat.gui.model_selector:67: Creating model selector widgets
+2025-02-10 05:08:09,130 [INFO] ollama_chat.gui.model_selector:108: Model selector widgets created
+2025-02-10 05:08:09,130 [INFO] ollama_chat.gui.model_selector:117: Loading models
+2025-02-10 05:08:09,132 [INFO] ollama_chat.gui.model_selector:58: Model selector initialized
+2025-02-10 05:08:09,132 [INFO] ollama_chat.gui.chat_window:143: Initializing chat window
+2025-02-10 05:08:09,138 [INFO] ollama_chat.gui.chat_window:175: Creating chat window widgets
+2025-02-10 05:08:09,177 [ERROR] ollama_chat.gui.chat_window:233: Error creating chat window widgets: 'EnhancedTextBox' object has no attribute 'tag_configure'
+2025-02-10 05:08:09,178 [ERROR] ollama_chat.gui.chat_window:169: Error initializing chat window: 'EnhancedTextBox' object has no attribute 'tag_configure'
+2025-02-10 05:08:09,178 [ERROR] ollama_chat.gui.app:100: Error initializing GUI: 'EnhancedTextBox' object has no attribute 'tag_configure'
+2025-02-10 05:08:09,178 [ERROR] ollama_chat.gui.app:44: Error initializing application: 'EnhancedTextBox' object has no attribute 'tag_configure'
+2025-02-10 05:08:09,178 [ERROR] ollama_chat.gui.app:146: Error handling fatal error: 'EnhancedTextBox' object has no attribute 'tag_configure'
+2025-02-10 05:08:09,178 [INFO] ollama_chat.backend.service:106: Listing models
+2025-02-10 05:08:09,178 [INFO] ollama_chat.backend.chat_manager:57: Listing models
+2025-02-10 05:08:09,178 [INFO] ollama_chat.backend.ollama_client:98: Listing available models
+2025-02-10 05:08:09,182 [INFO] ollama_chat.backend.ollama_client:105: Found 8 models: ['deepseek-coder:6.7b-base', 'deepseek-coder:1.3b', 'solar:latest', 'phi:latest', 'orca-mini:latest', 'llama3.2:latest', 'mistral:latest', 'neural-chat:latest']
+2025-02-10 05:08:09,185 [INFO] ollama_chat.backend.service:92: Getting current model
+2025-02-10 05:08:09,187 [INFO] ollama_chat.gui.model_selector:167: Models loaded: ['deepseek-coder:6.7b-base', 'deepseek-coder:1.3b', 'solar:latest', 'phi:latest', 'orca-mini:latest', 'llama3.2:latest', 'mistral:latest', 'neural-chat:latest']
+2025-02-10 05:09:39,102 [INFO] ollama_chat.utils.config:73: Logging configured
+2025-02-10 05:09:39,117 [INFO] ollama_chat.gui.app:21: Starting NexusChat
+2025-02-10 05:09:39,310 [INFO] ollama_chat.backend.service:19: Initializing backend service
+2025-02-10 05:09:39,310 [INFO] ollama_chat.utils.config:106: Loading config
+2025-02-10 05:09:39,310 [INFO] ollama_chat.utils.config:83: Getting config path
+2025-02-10 05:09:39,311 [INFO] ollama_chat.utils.config:94: Config path: /home/nulled/.config/ollama-chat/config.json
+2025-02-10 05:09:39,311 [INFO] ollama_chat.utils.config:110: Loading config from /home/nulled/.config/ollama-chat/config.json
+2025-02-10 05:09:39,311 [INFO] ollama_chat.utils.config:121: Config loaded successfully
+2025-02-10 05:09:39,311 [INFO] ollama_chat.backend.ollama_client:18: Initialized Ollama client with base URL: http://localhost:11434
+2025-02-10 05:09:39,311 [INFO] ollama_chat.backend.history_manager:20: History manager initialized
+2025-02-10 05:09:39,311 [INFO] ollama_chat.backend.chat_manager:26: Initializing chat manager
+2025-02-10 05:09:39,311 [INFO] ollama_chat.backend.chat_manager:35: Chat manager initialized
+2025-02-10 05:09:39,311 [INFO] ollama_chat.backend.service:34: Backend service initialized
+2025-02-10 05:09:39,311 [INFO] ollama_chat.gui.app:74: Backend initialized
+2025-02-10 05:09:39,312 [INFO] ollama_chat.gui.model_selector:31: Initializing model selector
+2025-02-10 05:09:39,328 [INFO] ollama_chat.gui.model_selector:67: Creating model selector widgets
+2025-02-10 05:09:39,406 [INFO] ollama_chat.gui.model_selector:108: Model selector widgets created
+2025-02-10 05:09:39,407 [INFO] ollama_chat.gui.model_selector:58: Model selector initialized
+2025-02-10 05:09:39,407 [INFO] ollama_chat.gui.chat_window:143: Initializing chat window
+2025-02-10 05:09:39,410 [INFO] ollama_chat.gui.chat_window:175: Creating chat window widgets
+2025-02-10 05:09:39,455 [ERROR] ollama_chat.gui.chat_window:233: Error creating chat window widgets: 'EnhancedTextBox' object has no attribute 'tag_configure'
+2025-02-10 05:09:39,455 [ERROR] ollama_chat.gui.chat_window:169: Error initializing chat window: 'EnhancedTextBox' object has no attribute 'tag_configure'
+2025-02-10 05:09:39,455 [ERROR] ollama_chat.gui.app:100: Error initializing GUI: 'EnhancedTextBox' object has no attribute 'tag_configure'
+2025-02-10 05:09:39,455 [ERROR] ollama_chat.gui.app:44: Error initializing application: 'EnhancedTextBox' object has no attribute 'tag_configure'
+2025-02-10 05:09:39,455 [ERROR] ollama_chat.gui.app:146: Error handling fatal error: 'EnhancedTextBox' object has no attribute 'tag_configure'
+2025-02-10 05:11:04,422 [INFO] ollama_chat.utils.config:73: Logging configured
+2025-02-10 05:11:04,435 [INFO] ollama_chat.gui.app:22: Starting NexusChat
+2025-02-10 05:11:04,630 [INFO] ollama_chat.backend.service:19: Initializing backend service
+2025-02-10 05:11:04,630 [INFO] ollama_chat.utils.config:106: Loading config
+2025-02-10 05:11:04,630 [INFO] ollama_chat.utils.config:83: Getting config path
+2025-02-10 05:11:04,630 [INFO] ollama_chat.utils.config:94: Config path: /home/nulled/.config/ollama-chat/config.json
+2025-02-10 05:11:04,630 [INFO] ollama_chat.utils.config:110: Loading config from /home/nulled/.config/ollama-chat/config.json
+2025-02-10 05:11:04,630 [INFO] ollama_chat.utils.config:121: Config loaded successfully
+2025-02-10 05:11:04,631 [INFO] ollama_chat.backend.ollama_client:18: Initialized Ollama client with base URL: http://localhost:11434
+2025-02-10 05:11:04,631 [INFO] ollama_chat.backend.history_manager:20: History manager initialized
+2025-02-10 05:11:04,631 [INFO] ollama_chat.backend.chat_manager:26: Initializing chat manager
+2025-02-10 05:11:04,631 [INFO] ollama_chat.backend.chat_manager:35: Chat manager initialized
+2025-02-10 05:11:04,631 [INFO] ollama_chat.backend.service:34: Backend service initialized
+2025-02-10 05:11:04,631 [INFO] ollama_chat.gui.app:78: Backend initialized
+2025-02-10 05:11:04,631 [INFO] ollama_chat.gui.model_selector:31: Initializing model selector
+2025-02-10 05:11:04,645 [INFO] ollama_chat.gui.model_selector:67: Creating model selector widgets
+2025-02-10 05:11:04,723 [INFO] ollama_chat.gui.model_selector:108: Model selector widgets created
+2025-02-10 05:11:04,724 [INFO] ollama_chat.gui.model_selector:58: Model selector initialized
+2025-02-10 05:11:04,724 [INFO] ollama_chat.gui.chat_window:143: Initializing chat window
+2025-02-10 05:11:04,728 [INFO] ollama_chat.gui.chat_window:175: Creating chat window widgets
+2025-02-10 05:11:04,765 [ERROR] ollama_chat.gui.chat_window:233: Error creating chat window widgets: 'EnhancedTextBox' object has no attribute 'tag_configure'
+2025-02-10 05:11:04,765 [ERROR] ollama_chat.gui.chat_window:169: Error initializing chat window: 'EnhancedTextBox' object has no attribute 'tag_configure'
+2025-02-10 05:11:04,765 [ERROR] ollama_chat.gui.app:104: Error initializing GUI: 'EnhancedTextBox' object has no attribute 'tag_configure'
+2025-02-10 05:11:04,765 [ERROR] ollama_chat.gui.app:48: Error initializing application: 'EnhancedTextBox' object has no attribute 'tag_configure'
+2025-02-10 05:11:04,766 [ERROR] ollama_chat.gui.app:140: Error handling fatal error: 'EnhancedTextBox' object has no attribute 'tag_configure'
+2025-02-10 05:11:04,766 [INFO] ollama_chat.backend.service:43: Starting backend service
+2025-02-10 05:11:04,766 [INFO] ollama_chat.backend.service:47: Backend service started
+2025-02-10 05:11:04,824 [INFO] ollama_chat.gui.model_selector:266: Loading models
+2025-02-10 05:11:04,827 [INFO] ollama_chat.backend.service:106: Listing models
+2025-02-10 05:11:04,827 [INFO] ollama_chat.backend.chat_manager:57: Listing models
+2025-02-10 05:11:04,827 [INFO] ollama_chat.backend.ollama_client:98: Listing available models
+2025-02-10 05:11:04,831 [INFO] ollama_chat.backend.ollama_client:105: Found 8 models: ['deepseek-coder:6.7b-base', 'deepseek-coder:1.3b', 'solar:latest', 'phi:latest', 'orca-mini:latest', 'llama3.2:latest', 'mistral:latest', 'neural-chat:latest']
+2025-02-10 05:11:04,836 [INFO] ollama_chat.backend.service:92: Getting current model
+2025-02-10 05:11:04,837 [INFO] ollama_chat.gui.model_selector:177: Models loaded: ['deepseek-coder:6.7b-base', 'deepseek-coder:1.3b', 'solar:latest', 'phi:latest', 'orca-mini:latest', 'llama3.2:latest', 'mistral:latest', 'neural-chat:latest']
+2025-02-10 05:11:29,701 [INFO] ollama_chat.gui.model_selector:210: Model selected: llama3.2:latest
+2025-02-10 05:11:31,588 [INFO] ollama_chat.gui.model_selector:225: Load button clicked
+2025-02-10 05:11:31,590 [INFO] ollama_chat.backend.service:74: Setting model to llama3.2:latest
+2025-02-10 05:11:31,591 [INFO] ollama_chat.backend.chat_manager:48: Setting model to llama3.2:latest
+2025-02-10 05:11:31,591 [INFO] ollama_chat.utils.config:133: Saving config
+2025-02-10 05:11:31,591 [INFO] ollama_chat.utils.config:83: Getting config path
+2025-02-10 05:11:31,591 [INFO] ollama_chat.utils.config:94: Config path: /home/nulled/.config/ollama-chat/config.json
+2025-02-10 05:11:31,591 [INFO] ollama_chat.utils.config:137: Saving config to /home/nulled/.config/ollama-chat/config.json
+2025-02-10 05:11:31,591 [INFO] ollama_chat.utils.config:143: Config saved successfully
+2025-02-10 05:11:31,591 [INFO] ollama_chat.gui.model_selector:243: Model loaded: llama3.2:latest
+2025-02-10 05:11:45,315 [INFO] ollama_chat.backend.service:56: Stopping backend service
+2025-02-10 05:11:45,315 [INFO] ollama_chat.backend.service:61: Backend service stopped

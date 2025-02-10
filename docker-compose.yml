@@ -1,0 +1,36 @@
+version: '3.8'
+services:
+  # Ollama service for AI model handling
+  ollama:
+    image: ollama/ollama
+    container_name: ollama-service
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama:/root/.ollama
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - capabilities: [gpu]
+
+  # Frontend chat application
+  chat:
+    build: 
+      context: .
+      dockerfile: Dockerfile
+    container_name: chat-service
+    ports:
+      - "3000:3000"
+    volumes:
+      - .:/app
+      - /app/node_modules
+    environment:
+      - NODE_ENV=development
+      - VITE_OLLAMA_HOST=http://ollama:11434
+    depends_on:
+      - ollama
+
+volumes:
+  ollama:
+    name: ollama-data 
