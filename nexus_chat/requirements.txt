@@ -1,0 +1,29 @@
+# GUI
+PyQt6>=6.8.1
+PyQt6-QScintilla>=2.14.1
+customtkinter>=5.2.0
+
+# HTTP client
+aiohttp>=3.9.1
+requests>=2.31.0
+
+# Typing support
+typing-extensions>=4.0.0
+
+# Logging
+loguru>=0.7.0
+
+# Configuration
+python-dotenv>=1.0.0
+
+# Data handling
+pydantic>=2.0.0
+
+# Additional dependencies
+markdown2==2.4.10
+python-dateutil==2.8.2
+sqlalchemy==2.0.23
+pygments==2.17.2
+aiosqlite==0.19.0
+pillow==10.1.0
+asyncio>=3.4.3

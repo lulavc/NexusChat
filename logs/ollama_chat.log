@@ -1,0 +1,908 @@
+2025-02-10 03:24:06,%f - ollama_chat.gui.app - INFO - Starting NexusChat
+2025-02-10 03:24:07,%f - ollama_chat.gui.app - ERROR - Error initializing backend: ChatManager.__init__() missing 2 required positional arguments: 'ollama_client' and 'history_manager'
+2025-02-10 03:24:07,%f - ollama_chat.gui.app - ERROR - Error initializing application: ChatManager.__init__() missing 2 required positional arguments: 'ollama_client' and 'history_manager'
+2025-02-10 03:24:07,%f - ollama_chat.gui.app - ERROR - Error handling fatal error: ChatManager.__init__() missing 2 required positional arguments: 'ollama_client' and 'history_manager'
+2025-02-10 03:25:10,%f - ollama_chat.gui.app - INFO - Starting NexusChat
+2025-02-10 03:25:10,%f - ollama_chat.backend.ollama_client - INFO - Initialized Ollama client with base URL: http://localhost:11434
+2025-02-10 03:25:10,%f - ollama_chat.backend.history_manager - INFO - History manager initialized
+2025-02-10 03:25:10,%f - ollama_chat.backend.chat_manager - INFO - Initializing chat manager
+2025-02-10 03:25:10,%f - ollama_chat.backend.chat_manager - INFO - Chat manager initialized
+2025-02-10 03:25:10,%f - ollama_chat.gui.app - INFO - Backend initialized
+2025-02-10 03:25:10,%f - ollama_chat.gui.model_selector - INFO - Initializing model selector
+2025-02-10 03:25:10,%f - ollama_chat.gui.model_selector - INFO - Model selector widgets created
+2025-02-10 03:25:10,%f - ollama_chat.gui.model_selector - ERROR - Error initializing model selector: no running event loop
+2025-02-10 03:25:10,%f - ollama_chat.gui.app - ERROR - Error initializing GUI: no running event loop
+2025-02-10 03:25:10,%f - ollama_chat.gui.app - ERROR - Error initializing application: no running event loop
+2025-02-10 03:25:10,%f - ollama_chat.gui.app - ERROR - Error handling fatal error: no running event loop
+2025-02-10 03:49:57,%f - ollama_chat.gui.app - INFO - Starting NexusChat
+2025-02-10 03:49:57,%f - ollama_chat.backend.ollama_client - INFO - Initialized Ollama client with base URL: http://localhost:11434
+2025-02-10 03:49:57,%f - ollama_chat.backend.history_manager - INFO - History manager initialized
+2025-02-10 03:49:57,%f - ollama_chat.backend.chat_manager - INFO - Initializing chat manager
+2025-02-10 03:49:57,%f - ollama_chat.backend.chat_manager - INFO - Chat manager initialized
+2025-02-10 03:49:57,%f - ollama_chat.gui.app - INFO - Backend initialized
+2025-02-10 03:49:57,%f - ollama_chat.gui.model_selector - INFO - Initializing model selector
+2025-02-10 03:49:57,%f - ollama_chat.gui.model_selector - INFO - Model selector widgets created
+2025-02-10 03:49:57,%f - ollama_chat.gui.model_selector - ERROR - Error initializing model selector: no running event loop
+2025-02-10 03:49:57,%f - ollama_chat.gui.app - ERROR - Error initializing GUI: no running event loop
+2025-02-10 03:49:57,%f - ollama_chat.gui.app - ERROR - Error initializing application: no running event loop
+2025-02-10 03:49:57,%f - ollama_chat.gui.app - ERROR - Error handling fatal error: no running event loop
+2025-02-10 03:50:45,%f - ollama_chat.gui.app - INFO - Starting NexusChat
+2025-02-10 03:50:46,%f - ollama_chat.backend.ollama_client - INFO - Initialized Ollama client with base URL: http://localhost:11434
+2025-02-10 03:50:46,%f - ollama_chat.backend.history_manager - INFO - History manager initialized
+2025-02-10 03:50:46,%f - ollama_chat.backend.chat_manager - INFO - Initializing chat manager
+2025-02-10 03:50:46,%f - ollama_chat.backend.chat_manager - INFO - Chat manager initialized
+2025-02-10 03:50:46,%f - ollama_chat.gui.app - INFO - Backend initialized
+2025-02-10 03:50:46,%f - ollama_chat.gui.model_selector - INFO - Initializing model selector
+2025-02-10 03:50:46,%f - ollama_chat.gui.model_selector - INFO - Model selector widgets created
+2025-02-10 03:50:46,%f - ollama_chat.gui.model_selector - ERROR - Error initializing model selector: no running event loop
+2025-02-10 03:50:46,%f - ollama_chat.gui.app - ERROR - Error initializing GUI: no running event loop
+2025-02-10 03:50:46,%f - ollama_chat.gui.app - ERROR - Error initializing application: no running event loop
+2025-02-10 03:50:46,%f - ollama_chat.gui.app - ERROR - Error handling fatal error: no running event loop
+2025-02-10 03:51:58,%f - ollama_chat.gui.app - INFO - Starting NexusChat
+2025-02-10 03:51:58,%f - ollama_chat.backend.ollama_client - INFO - Initialized Ollama client with base URL: http://localhost:11434
+2025-02-10 03:51:58,%f - ollama_chat.backend.history_manager - INFO - History manager initialized
+2025-02-10 03:51:58,%f - ollama_chat.backend.chat_manager - INFO - Initializing chat manager
+2025-02-10 03:51:58,%f - ollama_chat.backend.chat_manager - INFO - Chat manager initialized
+2025-02-10 03:51:58,%f - ollama_chat.gui.app - INFO - Backend initialized
+2025-02-10 03:51:58,%f - ollama_chat.gui.model_selector - INFO - Initializing model selector
+2025-02-10 03:51:58,%f - ollama_chat.gui.model_selector - INFO - Model selector widgets created
+2025-02-10 03:51:58,%f - ollama_chat.gui.model_selector - ERROR - Error initializing model selector: no running event loop
+2025-02-10 03:51:58,%f - ollama_chat.gui.app - ERROR - Error initializing GUI: no running event loop
+2025-02-10 03:51:58,%f - ollama_chat.gui.app - ERROR - Error initializing application: no running event loop
+2025-02-10 03:51:58,%f - ollama_chat.gui.app - ERROR - Error handling fatal error: no running event loop
+2025-02-10 03:52:45,%f - ollama_chat.gui.app - INFO - Starting NexusChat
+2025-02-10 03:52:46,%f - ollama_chat.backend.ollama_client - INFO - Initialized Ollama client with base URL: http://localhost:11434
+2025-02-10 03:52:46,%f - ollama_chat.backend.history_manager - INFO - History manager initialized
+2025-02-10 03:52:46,%f - ollama_chat.backend.chat_manager - INFO - Initializing chat manager
+2025-02-10 03:52:46,%f - ollama_chat.backend.chat_manager - INFO - Chat manager initialized
+2025-02-10 03:52:46,%f - ollama_chat.gui.app - INFO - Backend initialized
+2025-02-10 03:52:46,%f - ollama_chat.gui.model_selector - INFO - Initializing model selector
+2025-02-10 03:52:46,%f - ollama_chat.gui.model_selector - INFO - Model selector widgets created
+2025-02-10 03:52:46,%f - ollama_chat.gui.model_selector - ERROR - Error initializing model selector: no running event loop
+2025-02-10 03:52:46,%f - ollama_chat.gui.app - ERROR - Error initializing GUI: no running event loop
+2025-02-10 03:52:46,%f - ollama_chat.gui.app - ERROR - Error initializing application: no running event loop
+2025-02-10 03:52:46,%f - ollama_chat.gui.app - ERROR - Error handling fatal error: no running event loop
+2025-02-10 03:53:17,%f - ollama_chat.gui.app - INFO - Starting NexusChat
+2025-02-10 03:53:17,%f - ollama_chat.backend.ollama_client - INFO - Initialized Ollama client with base URL: http://localhost:11434
+2025-02-10 03:53:17,%f - ollama_chat.backend.history_manager - INFO - History manager initialized
+2025-02-10 03:53:17,%f - ollama_chat.backend.chat_manager - INFO - Initializing chat manager
+2025-02-10 03:53:17,%f - ollama_chat.backend.chat_manager - INFO - Chat manager initialized
+2025-02-10 03:53:17,%f - ollama_chat.gui.app - INFO - Backend initialized
+2025-02-10 03:53:17,%f - ollama_chat.gui.model_selector - INFO - Initializing model selector
+2025-02-10 03:53:17,%f - ollama_chat.gui.model_selector - INFO - Model selector widgets created
+2025-02-10 03:53:17,%f - ollama_chat.gui.model_selector - INFO - Model selector bindings setup
+2025-02-10 03:53:17,%f - ollama_chat.gui.model_selector - INFO - Model selector message queue initialized
+2025-02-10 03:53:17,%f - __main__ - ERROR - Error creating task: '_tkinter.tkapp' object has no attribute '_tasks'
+2025-02-10 03:53:17,%f - ollama_chat.gui.model_selector - ERROR - Error initializing model selector: '_tkinter.tkapp' object has no attribute '_tasks'
+2025-02-10 03:53:17,%f - ollama_chat.gui.app - ERROR - Error initializing GUI: '_tkinter.tkapp' object has no attribute '_tasks'
+2025-02-10 03:53:17,%f - ollama_chat.gui.app - ERROR - Error initializing application: '_tkinter.tkapp' object has no attribute '_tasks'
+2025-02-10 03:53:17,%f - ollama_chat.gui.app - ERROR - Error handling fatal error: '_tkinter.tkapp' object has no attribute '_tasks'
+2025-02-10 03:53:17,%f - ollama_chat.gui.model_selector - INFO - Loading models
+2025-02-10 03:53:17,%f - ollama_chat.backend.chat_manager - INFO - Listing models
+2025-02-10 03:53:17,%f - ollama_chat.backend.ollama_client - INFO - Listing available models
+2025-02-10 03:53:18,%f - ollama_chat.backend.ollama_client - INFO - Found 6 models: ['llama2:latest', 'codellama:latest', 'llama3.2:latest', 'mistral:latest', 'orca-mini:latest', 'neural-chat:latest']
+2025-02-10 03:53:18,%f - ollama_chat.backend.chat_manager - INFO - Setting model to llama2:latest
+2025-02-10 03:53:18,%f - ollama_chat.gui.model_selector - INFO - Models loaded: ['llama2:latest', 'codellama:latest', 'llama3.2:latest', 'mistral:latest', 'orca-mini:latest', 'neural-chat:latest']
+2025-02-10 03:53:22,%f - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7d66dd7dd4f0>
+2025-02-10 03:53:22,%f - asyncio - ERROR - Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x7d66dd9d39b0>, 66758.512622497)])']
+connector: <aiohttp.connector.TCPConnector object at 0x7d66dd7dd550>
+2025-02-10 03:53:49,%f - ollama_chat.gui.app - INFO - Starting NexusChat
+2025-02-10 03:53:49,%f - ollama_chat.backend.ollama_client - INFO - Initialized Ollama client with base URL: http://localhost:11434
+2025-02-10 03:53:49,%f - ollama_chat.backend.history_manager - INFO - History manager initialized
+2025-02-10 03:53:49,%f - ollama_chat.backend.chat_manager - INFO - Initializing chat manager
+2025-02-10 03:53:49,%f - ollama_chat.backend.chat_manager - INFO - Chat manager initialized
+2025-02-10 03:53:49,%f - ollama_chat.gui.app - INFO - Backend initialized
+2025-02-10 03:53:49,%f - ollama_chat.gui.model_selector - INFO - Initializing model selector
+2025-02-10 03:53:49,%f - ollama_chat.gui.model_selector - INFO - Model selector widgets created
+2025-02-10 03:53:49,%f - ollama_chat.gui.model_selector - INFO - Model selector bindings setup
+2025-02-10 03:53:49,%f - ollama_chat.gui.model_selector - INFO - Model selector message queue initialized
+2025-02-10 03:53:49,%f - ollama_chat.gui.model_selector - INFO - Model selector initialized
+2025-02-10 03:53:49,%f - ollama_chat.gui.chat_window - INFO - Initializing chat window
+2025-02-10 03:53:49,%f - ollama_chat.gui.chat_window - INFO - Chat window UI created
+2025-02-10 03:53:49,%f - ollama_chat.gui.chat_window - INFO - Chat window bindings setup
+2025-02-10 03:53:49,%f - ollama_chat.gui.chat_window - INFO - Chat window message queue initialized
+2025-02-10 03:53:49,%f - ollama_chat.gui.chat_window - INFO - Chat window initialized
+2025-02-10 03:53:49,%f - ollama_chat.gui.app - INFO - GUI initialized
+2025-02-10 03:53:49,%f - ollama_chat.gui.app - ERROR - Error loading theme: 'ThemeManager' object has no attribute 'apply_theme'
+2025-02-10 03:53:49,%f - ollama_chat.gui.app - ERROR - Error initializing application: 'ThemeManager' object has no attribute 'apply_theme'
+2025-02-10 03:53:49,%f - ollama_chat.gui.app - ERROR - Error handling fatal error: 'ThemeManager' object has no attribute 'apply_theme'
+2025-02-10 03:53:49,%f - ollama_chat.gui.model_selector - INFO - Loading models
+2025-02-10 03:53:49,%f - ollama_chat.backend.chat_manager - INFO - Listing models
+2025-02-10 03:53:49,%f - ollama_chat.backend.ollama_client - INFO - Listing available models
+2025-02-10 03:53:49,%f - ollama_chat.backend.ollama_client - INFO - Found 6 models: ['llama2:latest', 'codellama:latest', 'llama3.2:latest', 'mistral:latest', 'orca-mini:latest', 'neural-chat:latest']
+2025-02-10 03:53:49,%f - ollama_chat.backend.chat_manager - INFO - Setting model to llama2:latest
+2025-02-10 03:53:49,%f - ollama_chat.gui.model_selector - INFO - Models loaded: ['llama2:latest', 'codellama:latest', 'llama3.2:latest', 'mistral:latest', 'orca-mini:latest', 'neural-chat:latest']
+2025-02-10 03:53:57,%f - ollama_chat.backend.chat_manager - INFO - Setting model to llama3.2:latest
+2025-02-10 03:53:57,%f - ollama_chat.gui.model_selector - INFO - Selected model: llama3.2:latest
+2025-02-10 03:54:03,%f - ollama_chat.gui.chat_window - ERROR - Error handling send: no running event loop
+2025-02-10 03:56:34,%f - ollama_chat.gui.app - INFO - Starting NexusChat
+2025-02-10 03:56:34,%f - ollama_chat.backend.service - INFO - Initializing backend service
+2025-02-10 03:56:34,%f - ollama_chat.backend.ollama_client - INFO - Initialized Ollama client with base URL: http://localhost:11434
+2025-02-10 03:56:34,%f - ollama_chat.backend.history_manager - INFO - History manager initialized
+2025-02-10 03:56:34,%f - ollama_chat.backend.chat_manager - INFO - Initializing chat manager
+2025-02-10 03:56:34,%f - ollama_chat.backend.chat_manager - INFO - Chat manager initialized
+2025-02-10 03:56:34,%f - ollama_chat.backend.service - INFO - Backend service initialized
+2025-02-10 03:56:34,%f - ollama_chat.gui.app - INFO - Backend initialized
+2025-02-10 03:56:34,%f - ollama_chat.gui.model_selector - INFO - Initializing model selector
+2025-02-10 03:56:34,%f - ollama_chat.gui.model_selector - INFO - Model selector widgets created
+2025-02-10 03:56:34,%f - ollama_chat.gui.model_selector - INFO - Model selector bindings setup
+2025-02-10 03:56:34,%f - ollama_chat.gui.model_selector - INFO - Model selector message queue initialized
+2025-02-10 03:56:34,%f - ollama_chat.gui.model_selector - INFO - Model selector initialized
+2025-02-10 03:56:34,%f - ollama_chat.gui.chat_window - INFO - Initializing chat window
+2025-02-10 03:56:34,%f - ollama_chat.gui.chat_window - INFO - Chat window widgets created
+2025-02-10 03:56:34,%f - ollama_chat.gui.chat_window - INFO - Chat window bindings setup
+2025-02-10 03:56:34,%f - ollama_chat.gui.chat_window - INFO - Chat window message queue initialized
+2025-02-10 03:56:34,%f - ollama_chat.gui.chat_window - INFO - Chat window initialized
+2025-02-10 03:56:34,%f - ollama_chat.gui.app - INFO - GUI initialized
+2025-02-10 03:56:34,%f - ollama_chat.gui.app - ERROR - Error loading theme: 'ThemeManager' object has no attribute 'apply_theme'
+2025-02-10 03:56:34,%f - ollama_chat.gui.app - ERROR - Error initializing application: 'ThemeManager' object has no attribute 'apply_theme'
+2025-02-10 03:56:34,%f - ollama_chat.gui.app - ERROR - Error handling fatal error: 'ThemeManager' object has no attribute 'apply_theme'
+2025-02-10 03:57:05,%f - ollama_chat.gui.app - INFO - Starting NexusChat
+2025-02-10 03:57:05,%f - ollama_chat.backend.service - INFO - Initializing backend service
+2025-02-10 03:57:05,%f - ollama_chat.backend.ollama_client - INFO - Initialized Ollama client with base URL: http://localhost:11434
+2025-02-10 03:57:05,%f - ollama_chat.backend.history_manager - INFO - History manager initialized
+2025-02-10 03:57:05,%f - ollama_chat.backend.chat_manager - INFO - Initializing chat manager
+2025-02-10 03:57:05,%f - ollama_chat.backend.chat_manager - INFO - Chat manager initialized
+2025-02-10 03:57:05,%f - ollama_chat.backend.service - INFO - Backend service initialized
+2025-02-10 03:57:05,%f - ollama_chat.gui.app - INFO - Backend initialized
+2025-02-10 03:57:05,%f - ollama_chat.gui.model_selector - INFO - Initializing model selector
+2025-02-10 03:57:05,%f - ollama_chat.gui.model_selector - INFO - Model selector widgets created
+2025-02-10 03:57:05,%f - ollama_chat.gui.model_selector - INFO - Model selector bindings setup
+2025-02-10 03:57:05,%f - ollama_chat.gui.model_selector - INFO - Model selector message queue initialized
+2025-02-10 03:57:05,%f - ollama_chat.gui.model_selector - INFO - Model selector initialized
+2025-02-10 03:57:05,%f - ollama_chat.gui.chat_window - INFO - Initializing chat window
+2025-02-10 03:57:06,%f - ollama_chat.gui.chat_window - INFO - Chat window widgets created
+2025-02-10 03:57:06,%f - ollama_chat.gui.chat_window - INFO - Chat window bindings setup
+2025-02-10 03:57:06,%f - ollama_chat.gui.chat_window - INFO - Chat window message queue initialized
+2025-02-10 03:57:06,%f - ollama_chat.gui.chat_window - INFO - Chat window initialized
+2025-02-10 03:57:06,%f - ollama_chat.gui.app - INFO - GUI initialized
+2025-02-10 03:57:06,%f - ollama_chat.gui.app - INFO - NexusChat initialized
+2025-02-10 03:57:29,%f - ollama_chat.backend.service - ERROR - Error sending message: No model selected
+2025-02-10 03:57:29,%f - ollama_chat.gui.chat_window - ERROR - Error sending message: No model selected
+2025-02-10 03:57:37,%f - ollama_chat.gui.app - INFO - Starting NexusChat
+2025-02-10 03:57:37,%f - ollama_chat.backend.service - INFO - Initializing backend service
+2025-02-10 03:57:37,%f - ollama_chat.backend.ollama_client - INFO - Initialized Ollama client with base URL: http://localhost:11434
+2025-02-10 03:57:37,%f - ollama_chat.backend.history_manager - INFO - History manager initialized
+2025-02-10 03:57:37,%f - ollama_chat.backend.chat_manager - INFO - Initializing chat manager
+2025-02-10 03:57:37,%f - ollama_chat.backend.chat_manager - INFO - Chat manager initialized
+2025-02-10 03:57:37,%f - ollama_chat.backend.service - INFO - Backend service initialized
+2025-02-10 03:57:37,%f - ollama_chat.gui.app - INFO - Backend initialized
+2025-02-10 03:57:37,%f - ollama_chat.gui.model_selector - INFO - Initializing model selector
+2025-02-10 03:57:37,%f - ollama_chat.gui.model_selector - INFO - Model selector widgets created
+2025-02-10 03:57:37,%f - ollama_chat.gui.model_selector - INFO - Model selector bindings setup
+2025-02-10 03:57:37,%f - ollama_chat.gui.model_selector - INFO - Model selector message queue initialized
+2025-02-10 03:57:37,%f - ollama_chat.gui.model_selector - INFO - Model selector initialized
+2025-02-10 03:57:37,%f - ollama_chat.gui.chat_window - INFO - Initializing chat window
+2025-02-10 03:57:37,%f - ollama_chat.gui.chat_window - INFO - Chat window widgets created
+2025-02-10 03:57:37,%f - ollama_chat.gui.chat_window - INFO - Chat window bindings setup
+2025-02-10 03:57:37,%f - ollama_chat.gui.chat_window - INFO - Chat window message queue initialized
+2025-02-10 03:57:37,%f - ollama_chat.gui.chat_window - INFO - Chat window initialized
+2025-02-10 03:57:37,%f - ollama_chat.gui.app - INFO - GUI initialized
+2025-02-10 03:57:37,%f - ollama_chat.gui.app - INFO - NexusChat initialized
+2025-02-10 03:57:44,%f - ollama_chat.gui.model_selector - INFO - Selected model: Loading models...
+2025-02-10 03:57:47,%f - ollama_chat.gui.model_selector - INFO - Loading model: Loading models...
+2025-02-10 03:57:47,%f - ollama_chat.backend.service - INFO - Loading model: Loading models...
+2025-02-10 03:57:47,%f - ollama_chat.backend.ollama_client - INFO - Pulling model: Loading models...
+2025-02-10 03:57:47,%f - ollama_chat.backend.ollama_client - ERROR - Error pulling model: 400, message='Bad Request', url='http://localhost:11434/api/pull'
+2025-02-10 03:57:47,%f - ollama_chat.backend.service - ERROR - Error loading model: 400, message='Bad Request', url='http://localhost:11434/api/pull'
+2025-02-10 03:57:47,%f - ollama_chat.gui.model_selector - ERROR - Error loading model: 400, message='Bad Request', url='http://localhost:11434/api/pull'
+2025-02-10 03:57:47,%f - asyncio - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-1' coro=<ModelSelector._load_model() done, defined at /home/nulled/PROGRAMAÇÃO/NexusChat/ollama_chat/gui/model_selector.py:170> exception=ClientResponseError(RequestInfo(url=URL('http://localhost:11434/api/pull'), method='POST', headers=<CIMultiDictProxy('Host': 'localhost:11434', 'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'User-Agent': 'Python/3.12 aiohttp/3.11.12', 'Content-Length': '29', 'Content-Type': 'application/json')>, real_url=URL('http://localhost:11434/api/pull')), (), status=400, message='Bad Request', headers=<CIMultiDictProxy('Content-Type': 'application/json; charset=utf-8', 'Date': 'Mon, 10 Feb 2025 06:57:47 GMT', 'Content-Length': '30')>)>
+Traceback (most recent call last):
+  File "/home/nulled/PROGRAMAÇÃO/NexusChat/ollama_chat/gui/model_selector.py", line 180, in _load_model
+    await self.backend.load_model(model)
+  File "/home/nulled/PROGRAMAÇÃO/NexusChat/ollama_chat/backend/service.py", line 57, in load_model
+    await self.ollama_client.pull_model(model)
+  File "/home/nulled/PROGRAMAÇÃO/NexusChat/ollama_chat/backend/ollama_client.py", line 224, in pull_model
+    response.raise_for_status()
+  File "/home/nulled/PROGRAMAÇÃO/NexusChat/venv/lib/python3.12/site-packages/aiohttp/client_reqrep.py", line 1161, in raise_for_status
+    raise ClientResponseError(
+aiohttp.client_exceptions.ClientResponseError: 400, message='Bad Request', url='http://localhost:11434/api/pull'
+2025-02-10 03:57:55,%f - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7c721e5f7530>
+2025-02-10 03:57:55,%f - asyncio - ERROR - Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x7c721e7cfcb0>, 67027.668260507)])']
+connector: <aiohttp.connector.TCPConnector object at 0x7c721e5f7440>
+2025-02-10 03:58:09,%f - ollama_chat.gui.app - INFO - Starting NexusChat
+2025-02-10 03:58:10,%f - ollama_chat.backend.service - INFO - Initializing backend service
+2025-02-10 03:58:10,%f - ollama_chat.backend.ollama_client - INFO - Initialized Ollama client with base URL: http://localhost:11434
+2025-02-10 03:58:10,%f - ollama_chat.backend.history_manager - INFO - History manager initialized
+2025-02-10 03:58:10,%f - ollama_chat.backend.chat_manager - INFO - Initializing chat manager
+2025-02-10 03:58:10,%f - ollama_chat.backend.chat_manager - INFO - Chat manager initialized
+2025-02-10 03:58:10,%f - ollama_chat.backend.service - INFO - Backend service initialized
+2025-02-10 03:58:10,%f - ollama_chat.gui.app - INFO - Backend initialized
+2025-02-10 03:58:10,%f - ollama_chat.gui.model_selector - INFO - Initializing model selector
+2025-02-10 03:58:10,%f - ollama_chat.gui.model_selector - INFO - Model selector widgets created
+2025-02-10 03:58:10,%f - ollama_chat.gui.model_selector - INFO - Model selector bindings setup
+2025-02-10 03:58:10,%f - ollama_chat.gui.model_selector - INFO - Model selector message queue initialized
+2025-02-10 03:58:10,%f - ollama_chat.gui.model_selector - INFO - Model selector initialized
+2025-02-10 03:58:10,%f - ollama_chat.gui.chat_window - INFO - Initializing chat window
+2025-02-10 03:58:10,%f - ollama_chat.gui.chat_window - INFO - Chat window widgets created
+2025-02-10 03:58:10,%f - ollama_chat.gui.chat_window - INFO - Chat window bindings setup
+2025-02-10 03:58:10,%f - ollama_chat.gui.chat_window - INFO - Chat window message queue initialized
+2025-02-10 03:58:10,%f - ollama_chat.gui.chat_window - INFO - Chat window initialized
+2025-02-10 03:58:10,%f - ollama_chat.gui.app - INFO - GUI initialized
+2025-02-10 03:58:10,%f - ollama_chat.gui.app - INFO - NexusChat initialized
+2025-02-10 03:58:43,%f - ollama_chat.gui.app - INFO - Starting NexusChat
+2025-02-10 03:58:44,%f - ollama_chat.backend.service - INFO - Initializing backend service
+2025-02-10 03:58:44,%f - ollama_chat.backend.ollama_client - INFO - Initialized Ollama client with base URL: http://localhost:11434
+2025-02-10 03:58:44,%f - ollama_chat.backend.history_manager - INFO - History manager initialized
+2025-02-10 03:58:44,%f - ollama_chat.backend.chat_manager - INFO - Initializing chat manager
+2025-02-10 03:58:44,%f - ollama_chat.backend.chat_manager - INFO - Chat manager initialized
+2025-02-10 03:58:44,%f - ollama_chat.backend.service - INFO - Backend service initialized
+2025-02-10 03:58:44,%f - ollama_chat.gui.app - INFO - Backend initialized
+2025-02-10 03:58:44,%f - ollama_chat.gui.model_selector - INFO - Initializing model selector
+2025-02-10 03:58:44,%f - ollama_chat.gui.model_selector - INFO - Model selector widgets created
+2025-02-10 03:58:44,%f - ollama_chat.gui.model_selector - INFO - Model selector bindings setup
+2025-02-10 03:58:44,%f - ollama_chat.gui.model_selector - INFO - Model selector message queue initialized
+2025-02-10 03:58:44,%f - ollama_chat.gui.model_selector - INFO - Model selector initialized
+2025-02-10 03:58:44,%f - ollama_chat.gui.chat_window - INFO - Initializing chat window
+2025-02-10 03:58:44,%f - ollama_chat.gui.chat_window - INFO - Chat window widgets created
+2025-02-10 03:58:44,%f - ollama_chat.gui.chat_window - INFO - Chat window bindings setup
+2025-02-10 03:58:44,%f - ollama_chat.gui.chat_window - INFO - Chat window message queue initialized
+2025-02-10 03:58:44,%f - ollama_chat.gui.chat_window - INFO - Chat window initialized
+2025-02-10 03:58:44,%f - ollama_chat.gui.app - INFO - GUI initialized
+2025-02-10 03:58:44,%f - ollama_chat.gui.app - INFO - NexusChat initialized
+2025-02-10 03:58:44,%f - ollama_chat.gui.model_selector - INFO - Loading models
+2025-02-10 03:58:44,%f - ollama_chat.backend.chat_manager - INFO - Listing models
+2025-02-10 03:58:44,%f - ollama_chat.backend.ollama_client - INFO - Listing available models
+2025-02-10 03:58:44,%f - ollama_chat.backend.ollama_client - INFO - Found 6 models: ['llama2:latest', 'codellama:latest', 'llama3.2:latest', 'mistral:latest', 'orca-mini:latest', 'neural-chat:latest']
+2025-02-10 03:58:44,%f - ollama_chat.gui.model_selector - INFO - Models loaded: ['llama2:latest', 'codellama:latest', 'llama3.2:latest', 'mistral:latest', 'orca-mini:latest', 'neural-chat:latest']
+2025-02-10 03:58:49,%f - ollama_chat.gui.model_selector - INFO - Selected model: llama3.2:latest
+2025-02-10 03:59:07,%f - ollama_chat.gui.model_selector - INFO - Loading model: llama3.2:latest
+2025-02-10 03:59:07,%f - ollama_chat.backend.service - INFO - Loading model: llama3.2:latest
+2025-02-10 03:59:07,%f - ollama_chat.backend.ollama_client - INFO - Pulling model: llama3.2:latest
+2025-02-10 03:59:07,%f - ollama_chat.backend.ollama_client - INFO - Pull status: pulling manifest
+2025-02-10 03:59:08,%f - ollama_chat.backend.ollama_client - INFO - Pull status: pulling dde5aa3fc5ff
+2025-02-10 03:59:08,%f - ollama_chat.backend.ollama_client - INFO - Pull status: pulling 966de95ca8a6
+2025-02-10 03:59:08,%f - ollama_chat.backend.ollama_client - INFO - Pull status: pulling fcc5a6bec9da
+2025-02-10 03:59:08,%f - ollama_chat.backend.ollama_client - INFO - Pull status: pulling a70ff7e570d9
+2025-02-10 03:59:08,%f - ollama_chat.backend.ollama_client - INFO - Pull status: pulling 56bb8bd477a5
+2025-02-10 03:59:08,%f - ollama_chat.backend.ollama_client - INFO - Pull status: pulling 34bb5ab01051
+2025-02-10 03:59:08,%f - ollama_chat.backend.ollama_client - INFO - Pull status: verifying sha256 digest
+2025-02-10 03:59:08,%f - ollama_chat.backend.ollama_client - INFO - Pull status: writing manifest
+2025-02-10 03:59:08,%f - ollama_chat.backend.ollama_client - INFO - Pull status: success
+2025-02-10 03:59:08,%f - ollama_chat.backend.ollama_client - INFO - Model pulled: llama3.2:latest
+2025-02-10 03:59:08,%f - ollama_chat.backend.service - INFO - Set model: llama3.2:latest
+2025-02-10 03:59:08,%f - ollama_chat.backend.service - INFO - Model loaded: llama3.2:latest
+2025-02-10 03:59:08,%f - ollama_chat.gui.model_selector - INFO - Model loaded: llama3.2:latest
+2025-02-10 03:59:16,%f - ollama_chat.backend.chat_manager - INFO - Sending message
+2025-02-10 03:59:16,%f - ollama_chat.backend.chat_manager - ERROR - Error sending message: No model selected
+2025-02-10 03:59:16,%f - ollama_chat.backend.service - ERROR - Error sending message: No model selected
+2025-02-10 03:59:16,%f - ollama_chat.gui.chat_window - ERROR - Error sending message: No model selected
+2025-02-10 03:59:28,%f - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x786a6093c380>
+2025-02-10 04:00:09,%f - ollama_chat.gui.app - INFO - Starting NexusChat
+2025-02-10 04:00:09,%f - ollama_chat.backend.service - INFO - Initializing backend service
+2025-02-10 04:00:09,%f - ollama_chat.backend.ollama_client - INFO - Initialized Ollama client with base URL: http://localhost:11434
+2025-02-10 04:00:09,%f - ollama_chat.backend.history_manager - INFO - History manager initialized
+2025-02-10 04:00:09,%f - ollama_chat.backend.service - ERROR - Error initializing backend service: ChatManager.__init__() missing 2 required positional arguments: 'ollama_client' and 'history_manager'
+2025-02-10 04:00:09,%f - ollama_chat.gui.app - ERROR - Error initializing backend: ChatManager.__init__() missing 2 required positional arguments: 'ollama_client' and 'history_manager'
+2025-02-10 04:00:09,%f - ollama_chat.gui.app - ERROR - Error initializing application: ChatManager.__init__() missing 2 required positional arguments: 'ollama_client' and 'history_manager'
+2025-02-10 04:00:09,%f - ollama_chat.gui.app - ERROR - Error handling fatal error: ChatManager.__init__() missing 2 required positional arguments: 'ollama_client' and 'history_manager'
+2025-02-10 04:01:18,%f - ollama_chat.gui.app - INFO - Starting NexusChat
+2025-02-10 04:01:18,%f - ollama_chat.backend.service - INFO - Initializing backend service
+2025-02-10 04:01:18,%f - ollama_chat.backend.ollama_client - INFO - Initialized Ollama client with base URL: http://localhost:11434
+2025-02-10 04:01:18,%f - ollama_chat.backend.history_manager - INFO - History manager initialized
+2025-02-10 04:01:18,%f - ollama_chat.backend.chat_manager - INFO - Initializing chat manager
+2025-02-10 04:01:18,%f - ollama_chat.backend.chat_manager - INFO - Chat manager initialized
+2025-02-10 04:01:18,%f - ollama_chat.backend.service - INFO - Backend service initialized
+2025-02-10 04:01:18,%f - ollama_chat.gui.app - INFO - Backend initialized
+2025-02-10 04:01:18,%f - ollama_chat.gui.model_selector - INFO - Initializing model selector
+2025-02-10 04:01:18,%f - ollama_chat.gui.model_selector - INFO - Model selector widgets created
+2025-02-10 04:01:18,%f - ollama_chat.gui.model_selector - INFO - Model selector bindings setup
+2025-02-10 04:01:18,%f - ollama_chat.gui.model_selector - INFO - Model selector message queue initialized
+2025-02-10 04:01:18,%f - ollama_chat.gui.model_selector - INFO - Model selector initialized
+2025-02-10 04:01:18,%f - ollama_chat.gui.chat_window - INFO - Initializing chat window
+2025-02-10 04:01:18,%f - ollama_chat.gui.chat_window - INFO - Chat window widgets created
+2025-02-10 04:01:18,%f - ollama_chat.gui.chat_window - INFO - Chat window bindings setup
+2025-02-10 04:01:18,%f - ollama_chat.gui.chat_window - INFO - Chat window message queue initialized
+2025-02-10 04:01:18,%f - ollama_chat.gui.chat_window - INFO - Chat window initialized
+2025-02-10 04:01:18,%f - ollama_chat.gui.app - INFO - GUI initialized
+2025-02-10 04:01:18,%f - ollama_chat.gui.app - INFO - NexusChat initialized
+2025-02-10 04:01:18,%f - ollama_chat.gui.model_selector - INFO - Loading models
+2025-02-10 04:01:18,%f - ollama_chat.backend.service - INFO - Listing models
+2025-02-10 04:01:18,%f - ollama_chat.backend.ollama_client - INFO - Listing available models
+2025-02-10 04:01:18,%f - ollama_chat.backend.ollama_client - INFO - Found 6 models: ['llama3.2:latest', 'llama2:latest', 'codellama:latest', 'mistral:latest', 'orca-mini:latest', 'neural-chat:latest']
+2025-02-10 04:01:18,%f - ollama_chat.gui.model_selector - INFO - Models loaded: ['llama3.2:latest', 'llama2:latest', 'codellama:latest', 'mistral:latest', 'orca-mini:latest', 'neural-chat:latest']
+2025-02-10 04:01:38,%f - ollama_chat.gui.app - ERROR - Error handling window closing: This event loop is already running
+2025-02-10 04:01:38,%f - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-2' coro=<App._update() running at /home/nulled/PROGRAMAÇÃO/NexusChat/ollama_chat/gui/app.py:111> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-02-10 04:01:41,%f - ollama_chat.gui.app - INFO - Starting NexusChat
+2025-02-10 04:01:41,%f - ollama_chat.backend.service - INFO - Initializing backend service
+2025-02-10 04:01:41,%f - ollama_chat.backend.ollama_client - INFO - Initialized Ollama client with base URL: http://localhost:11434
+2025-02-10 04:01:41,%f - ollama_chat.backend.history_manager - INFO - History manager initialized
+2025-02-10 04:01:41,%f - ollama_chat.backend.chat_manager - INFO - Initializing chat manager
+2025-02-10 04:01:41,%f - ollama_chat.backend.chat_manager - INFO - Chat manager initialized
+2025-02-10 04:01:41,%f - ollama_chat.backend.service - INFO - Backend service initialized
+2025-02-10 04:01:41,%f - ollama_chat.gui.app - INFO - Backend initialized
+2025-02-10 04:01:41,%f - ollama_chat.gui.model_selector - INFO - Initializing model selector
+2025-02-10 04:01:41,%f - ollama_chat.gui.model_selector - INFO - Model selector widgets created
+2025-02-10 04:01:41,%f - ollama_chat.gui.model_selector - INFO - Model selector bindings setup
+2025-02-10 04:01:41,%f - ollama_chat.gui.model_selector - INFO - Model selector message queue initialized
+2025-02-10 04:01:41,%f - ollama_chat.gui.model_selector - INFO - Model selector initialized
+2025-02-10 04:01:41,%f - ollama_chat.gui.chat_window - INFO - Initializing chat window
+2025-02-10 04:01:41,%f - ollama_chat.gui.chat_window - INFO - Chat window widgets created
+2025-02-10 04:01:41,%f - ollama_chat.gui.chat_window - INFO - Chat window bindings setup
+2025-02-10 04:01:41,%f - ollama_chat.gui.chat_window - INFO - Chat window message queue initialized
+2025-02-10 04:01:41,%f - ollama_chat.gui.chat_window - INFO - Chat window initialized
+2025-02-10 04:01:41,%f - ollama_chat.gui.app - INFO - GUI initialized
+2025-02-10 04:01:41,%f - ollama_chat.gui.app - INFO - NexusChat initialized
+2025-02-10 04:01:41,%f - ollama_chat.gui.model_selector - INFO - Loading models
+2025-02-10 04:01:41,%f - ollama_chat.backend.service - INFO - Listing models
+2025-02-10 04:01:41,%f - ollama_chat.backend.ollama_client - INFO - Listing available models
+2025-02-10 04:01:42,%f - ollama_chat.backend.ollama_client - INFO - Found 6 models: ['llama3.2:latest', 'llama2:latest', 'codellama:latest', 'mistral:latest', 'orca-mini:latest', 'neural-chat:latest']
+2025-02-10 04:01:42,%f - ollama_chat.gui.model_selector - INFO - Models loaded: ['llama3.2:latest', 'llama2:latest', 'codellama:latest', 'mistral:latest', 'orca-mini:latest', 'neural-chat:latest']
+2025-02-10 04:01:50,%f - ollama_chat.gui.model_selector - INFO - Selected model: codellama:latest
+2025-02-10 04:01:51,%f - ollama_chat.gui.model_selector - INFO - Loading model: codellama:latest
+2025-02-10 04:01:51,%f - ollama_chat.backend.service - INFO - Loading model: codellama:latest
+2025-02-10 04:01:51,%f - ollama_chat.backend.ollama_client - INFO - Pulling model: codellama:latest
+2025-02-10 04:01:51,%f - ollama_chat.backend.ollama_client - INFO - Pull status: pulling manifest
+2025-02-10 04:01:52,%f - ollama_chat.backend.ollama_client - INFO - Pull status: pulling 3a43f93b78ec
+2025-02-10 04:01:52,%f - ollama_chat.backend.ollama_client - INFO - Pull status: pulling 8c17c2ebb0ea
+2025-02-10 04:01:52,%f - ollama_chat.backend.ollama_client - INFO - Pull status: pulling 590d74a5569b
+2025-02-10 04:01:52,%f - ollama_chat.backend.ollama_client - INFO - Pull status: pulling 2e0493f67d0c
+2025-02-10 04:01:52,%f - ollama_chat.backend.ollama_client - INFO - Pull status: pulling 7f6a57943a88
+2025-02-10 04:01:52,%f - ollama_chat.backend.ollama_client - INFO - Pull status: pulling 316526ac7323
+2025-02-10 04:01:52,%f - ollama_chat.backend.ollama_client - INFO - Pull status: verifying sha256 digest
+2025-02-10 04:01:52,%f - ollama_chat.backend.ollama_client - INFO - Pull status: writing manifest
+2025-02-10 04:01:52,%f - ollama_chat.backend.ollama_client - INFO - Pull status: success
+2025-02-10 04:01:52,%f - ollama_chat.backend.ollama_client - INFO - Model pulled: codellama:latest
+2025-02-10 04:01:52,%f - ollama_chat.backend.chat_manager - INFO - Setting model to codellama:latest
+2025-02-10 04:01:52,%f - ollama_chat.backend.service - INFO - Set model: codellama:latest
+2025-02-10 04:01:52,%f - ollama_chat.backend.service - INFO - Model loaded: codellama:latest
+2025-02-10 04:01:52,%f - ollama_chat.gui.model_selector - INFO - Model loaded: codellama:latest
+2025-02-10 04:01:54,%f - ollama_chat.gui.model_selector - INFO - Loading model: codellama:latest
+2025-02-10 04:01:54,%f - ollama_chat.backend.service - INFO - Loading model: codellama:latest
+2025-02-10 04:01:54,%f - ollama_chat.backend.ollama_client - INFO - Pulling model: codellama:latest
+2025-02-10 04:01:54,%f - ollama_chat.backend.ollama_client - INFO - Pull status: pulling manifest
+2025-02-10 04:01:55,%f - ollama_chat.backend.ollama_client - INFO - Pull status: pulling 3a43f93b78ec
+2025-02-10 04:01:55,%f - ollama_chat.backend.ollama_client - INFO - Pull status: pulling 8c17c2ebb0ea
+2025-02-10 04:01:55,%f - ollama_chat.backend.ollama_client - INFO - Pull status: pulling 590d74a5569b
+2025-02-10 04:01:55,%f - ollama_chat.backend.ollama_client - INFO - Pull status: pulling 2e0493f67d0c
+2025-02-10 04:01:55,%f - ollama_chat.backend.ollama_client - INFO - Pull status: pulling 7f6a57943a88
+2025-02-10 04:01:55,%f - ollama_chat.backend.ollama_client - INFO - Pull status: pulling 316526ac7323
+2025-02-10 04:01:55,%f - ollama_chat.backend.ollama_client - INFO - Pull status: verifying sha256 digest
+2025-02-10 04:01:55,%f - ollama_chat.backend.ollama_client - INFO - Pull status: writing manifest
+2025-02-10 04:01:55,%f - ollama_chat.backend.ollama_client - INFO - Pull status: success
+2025-02-10 04:01:55,%f - ollama_chat.backend.ollama_client - INFO - Model pulled: codellama:latest
+2025-02-10 04:01:55,%f - ollama_chat.backend.chat_manager - INFO - Setting model to codellama:latest
+2025-02-10 04:01:55,%f - ollama_chat.backend.service - INFO - Set model: codellama:latest
+2025-02-10 04:01:55,%f - ollama_chat.backend.service - INFO - Model loaded: codellama:latest
+2025-02-10 04:01:55,%f - ollama_chat.gui.model_selector - INFO - Model loaded: codellama:latest
+2025-02-10 04:02:01,%f - ollama_chat.backend.service - INFO - Sending message
+2025-02-10 04:02:01,%f - ollama_chat.backend.chat_manager - INFO - Sending message
+2025-02-10 04:02:01,%f - ollama_chat.backend.history_manager - INFO - Message added to history
+2025-02-10 04:02:01,%f - ollama_chat.backend.history_manager - INFO - Found 1 messages
+2025-02-10 04:02:01,%f - ollama_chat.backend.chat_manager - ERROR - Error sending message: OllamaClient.chat() missing 1 required positional argument: 'message'
+2025-02-10 04:02:01,%f - ollama_chat.backend.service - ERROR - Error sending message: OllamaClient.chat() missing 1 required positional argument: 'message'
+2025-02-10 04:02:01,%f - ollama_chat.gui.chat_window - ERROR - Error sending message: OllamaClient.chat() missing 1 required positional argument: 'message'
+2025-02-10 04:02:15,%f - ollama_chat.gui.app - INFO - Starting NexusChat
+2025-02-10 04:02:16,%f - ollama_chat.backend.service - INFO - Initializing backend service
+2025-02-10 04:02:16,%f - ollama_chat.backend.ollama_client - INFO - Initialized Ollama client with base URL: http://localhost:11434
+2025-02-10 04:02:16,%f - ollama_chat.backend.history_manager - INFO - History manager initialized
+2025-02-10 04:02:16,%f - ollama_chat.backend.chat_manager - INFO - Initializing chat manager
+2025-02-10 04:02:16,%f - ollama_chat.backend.chat_manager - INFO - Chat manager initialized
+2025-02-10 04:02:16,%f - ollama_chat.backend.service - INFO - Backend service initialized
+2025-02-10 04:02:16,%f - ollama_chat.gui.app - INFO - Backend initialized
+2025-02-10 04:02:16,%f - ollama_chat.gui.model_selector - INFO - Initializing model selector
+2025-02-10 04:02:16,%f - ollama_chat.gui.model_selector - INFO - Model selector widgets created
+2025-02-10 04:02:16,%f - ollama_chat.gui.model_selector - INFO - Model selector bindings setup
+2025-02-10 04:02:16,%f - ollama_chat.gui.model_selector - INFO - Model selector message queue initialized
+2025-02-10 04:02:16,%f - ollama_chat.gui.model_selector - INFO - Model selector initialized
+2025-02-10 04:02:16,%f - ollama_chat.gui.chat_window - INFO - Initializing chat window
+2025-02-10 04:02:16,%f - ollama_chat.gui.chat_window - INFO - Chat window widgets created
+2025-02-10 04:02:16,%f - ollama_chat.gui.chat_window - INFO - Chat window bindings setup
+2025-02-10 04:02:16,%f - ollama_chat.gui.chat_window - INFO - Chat window message queue initialized
+2025-02-10 04:02:16,%f - ollama_chat.gui.chat_window - INFO - Chat window initialized
+2025-02-10 04:02:16,%f - ollama_chat.gui.app - INFO - GUI initialized
+2025-02-10 04:02:16,%f - ollama_chat.gui.app - INFO - NexusChat initialized
+2025-02-10 04:02:16,%f - ollama_chat.gui.model_selector - INFO - Loading models
+2025-02-10 04:02:16,%f - ollama_chat.backend.service - INFO - Listing models
+2025-02-10 04:02:16,%f - ollama_chat.backend.ollama_client - INFO - Listing available models
+2025-02-10 04:02:16,%f - ollama_chat.backend.ollama_client - INFO - Found 6 models: ['codellama:latest', 'llama3.2:latest', 'llama2:latest', 'mistral:latest', 'orca-mini:latest', 'neural-chat:latest']
+2025-02-10 04:02:16,%f - ollama_chat.gui.model_selector - INFO - Models loaded: ['codellama:latest', 'llama3.2:latest', 'llama2:latest', 'mistral:latest', 'orca-mini:latest', 'neural-chat:latest']
+2025-02-10 04:02:30,%f - ollama_chat.gui.model_selector - INFO - Selected model: llama2:latest
+2025-02-10 04:02:31,%f - ollama_chat.gui.model_selector - INFO - Loading model: llama2:latest
+2025-02-10 04:02:31,%f - ollama_chat.backend.service - INFO - Loading model: llama2:latest
+2025-02-10 04:02:31,%f - ollama_chat.backend.ollama_client - INFO - Pulling model: llama2:latest
+2025-02-10 04:02:31,%f - ollama_chat.backend.ollama_client - INFO - Pull status: pulling manifest
+2025-02-10 04:02:32,%f - ollama_chat.backend.ollama_client - INFO - Pull status: pulling 8934d96d3f08
+2025-02-10 04:02:32,%f - ollama_chat.backend.ollama_client - INFO - Pull status: pulling 8c17c2ebb0ea
+2025-02-10 04:02:32,%f - ollama_chat.backend.ollama_client - INFO - Pull status: pulling 7c23fb36d801
+2025-02-10 04:02:32,%f - ollama_chat.backend.ollama_client - INFO - Pull status: pulling 2e0493f67d0c
+2025-02-10 04:02:32,%f - ollama_chat.backend.ollama_client - INFO - Pull status: pulling fa304d675061
+2025-02-10 04:02:32,%f - ollama_chat.backend.ollama_client - INFO - Pull status: pulling 42ba7f8a01dd
+2025-02-10 04:02:32,%f - ollama_chat.backend.ollama_client - INFO - Pull status: verifying sha256 digest
+2025-02-10 04:02:32,%f - ollama_chat.backend.ollama_client - INFO - Pull status: writing manifest
+2025-02-10 04:02:32,%f - ollama_chat.backend.ollama_client - INFO - Pull status: success
+2025-02-10 04:02:32,%f - ollama_chat.backend.ollama_client - INFO - Model pulled: llama2:latest
+2025-02-10 04:02:32,%f - ollama_chat.backend.chat_manager - INFO - Setting model to llama2:latest
+2025-02-10 04:02:32,%f - ollama_chat.backend.service - INFO - Set model: llama2:latest
+2025-02-10 04:02:32,%f - ollama_chat.backend.service - INFO - Model loaded: llama2:latest
+2025-02-10 04:02:32,%f - ollama_chat.gui.model_selector - INFO - Model loaded: llama2:latest
+2025-02-10 04:02:38,%f - ollama_chat.backend.service - INFO - Sending message
+2025-02-10 04:02:38,%f - ollama_chat.backend.chat_manager - INFO - Sending message
+2025-02-10 04:02:38,%f - ollama_chat.backend.history_manager - INFO - Message added to history
+2025-02-10 04:02:38,%f - ollama_chat.backend.history_manager - INFO - Found 1 messages
+2025-02-10 04:02:38,%f - ollama_chat.backend.chat_manager - ERROR - Error sending message: OllamaClient.chat() missing 1 required positional argument: 'message'
+2025-02-10 04:02:38,%f - ollama_chat.backend.service - ERROR - Error sending message: OllamaClient.chat() missing 1 required positional argument: 'message'
+2025-02-10 04:02:38,%f - ollama_chat.gui.chat_window - ERROR - Error sending message: OllamaClient.chat() missing 1 required positional argument: 'message'
+2025-02-10 04:02:45,%f - ollama_chat.gui.app - INFO - Starting NexusChat
+2025-02-10 04:02:45,%f - ollama_chat.backend.service - INFO - Initializing backend service
+2025-02-10 04:02:45,%f - ollama_chat.backend.ollama_client - INFO - Initialized Ollama client with base URL: http://localhost:11434
+2025-02-10 04:02:45,%f - ollama_chat.backend.history_manager - INFO - History manager initialized
+2025-02-10 04:02:45,%f - ollama_chat.backend.chat_manager - INFO - Initializing chat manager
+2025-02-10 04:02:45,%f - ollama_chat.backend.chat_manager - INFO - Chat manager initialized
+2025-02-10 04:02:45,%f - ollama_chat.backend.service - INFO - Backend service initialized
+2025-02-10 04:02:45,%f - ollama_chat.gui.app - INFO - Backend initialized
+2025-02-10 04:02:45,%f - ollama_chat.gui.model_selector - INFO - Initializing model selector
+2025-02-10 04:02:45,%f - ollama_chat.gui.model_selector - INFO - Model selector widgets created
+2025-02-10 04:02:45,%f - ollama_chat.gui.model_selector - INFO - Model selector bindings setup
+2025-02-10 04:02:45,%f - ollama_chat.gui.model_selector - INFO - Model selector message queue initialized
+2025-02-10 04:02:45,%f - ollama_chat.gui.model_selector - INFO - Model selector initialized
+2025-02-10 04:02:45,%f - ollama_chat.gui.chat_window - INFO - Initializing chat window
+2025-02-10 04:02:45,%f - ollama_chat.gui.chat_window - INFO - Chat window widgets created
+2025-02-10 04:02:45,%f - ollama_chat.gui.chat_window - INFO - Chat window bindings setup
+2025-02-10 04:02:45,%f - ollama_chat.gui.chat_window - INFO - Chat window message queue initialized
+2025-02-10 04:02:45,%f - ollama_chat.gui.chat_window - INFO - Chat window initialized
+2025-02-10 04:02:45,%f - ollama_chat.gui.app - INFO - GUI initialized
+2025-02-10 04:02:45,%f - ollama_chat.gui.app - INFO - NexusChat initialized
+2025-02-10 04:02:45,%f - ollama_chat.gui.model_selector - INFO - Loading models
+2025-02-10 04:02:45,%f - ollama_chat.backend.service - INFO - Listing models
+2025-02-10 04:02:45,%f - ollama_chat.backend.ollama_client - INFO - Listing available models
+2025-02-10 04:02:46,%f - ollama_chat.backend.ollama_client - INFO - Found 6 models: ['llama2:latest', 'codellama:latest', 'llama3.2:latest', 'mistral:latest', 'orca-mini:latest', 'neural-chat:latest']
+2025-02-10 04:02:46,%f - ollama_chat.gui.model_selector - INFO - Models loaded: ['llama2:latest', 'codellama:latest', 'llama3.2:latest', 'mistral:latest', 'orca-mini:latest', 'neural-chat:latest']
+2025-02-10 04:02:51,%f - ollama_chat.backend.service - INFO - Sending message
+2025-02-10 04:02:51,%f - ollama_chat.backend.service - ERROR - Error sending message: No model selected
+2025-02-10 04:02:51,%f - ollama_chat.gui.chat_window - ERROR - Error sending message: No model selected
+2025-02-10 04:02:55,%f - ollama_chat.gui.model_selector - INFO - Loading model: llama2:latest
+2025-02-10 04:02:55,%f - ollama_chat.backend.service - INFO - Loading model: llama2:latest
+2025-02-10 04:02:55,%f - ollama_chat.backend.ollama_client - INFO - Pulling model: llama2:latest
+2025-02-10 04:02:55,%f - ollama_chat.backend.ollama_client - INFO - Pull status: pulling manifest
+2025-02-10 04:02:56,%f - ollama_chat.backend.ollama_client - INFO - Pull status: pulling 8934d96d3f08
+2025-02-10 04:02:56,%f - ollama_chat.backend.ollama_client - INFO - Pull status: pulling 8c17c2ebb0ea
+2025-02-10 04:02:56,%f - ollama_chat.backend.ollama_client - INFO - Pull status: pulling 7c23fb36d801
+2025-02-10 04:02:56,%f - ollama_chat.backend.ollama_client - INFO - Pull status: pulling 2e0493f67d0c
+2025-02-10 04:02:56,%f - ollama_chat.backend.ollama_client - INFO - Pull status: pulling fa304d675061
+2025-02-10 04:02:56,%f - ollama_chat.backend.ollama_client - INFO - Pull status: pulling 42ba7f8a01dd
+2025-02-10 04:02:56,%f - ollama_chat.backend.ollama_client - INFO - Pull status: verifying sha256 digest
+2025-02-10 04:02:56,%f - ollama_chat.backend.ollama_client - INFO - Pull status: writing manifest
+2025-02-10 04:02:56,%f - ollama_chat.backend.ollama_client - INFO - Pull status: success
+2025-02-10 04:02:56,%f - ollama_chat.backend.ollama_client - INFO - Model pulled: llama2:latest
+2025-02-10 04:02:56,%f - ollama_chat.backend.chat_manager - INFO - Setting model to llama2:latest
+2025-02-10 04:02:56,%f - ollama_chat.backend.service - INFO - Set model: llama2:latest
+2025-02-10 04:02:56,%f - ollama_chat.backend.service - INFO - Model loaded: llama2:latest
+2025-02-10 04:02:56,%f - ollama_chat.gui.model_selector - INFO - Model loaded: llama2:latest
+2025-02-10 04:02:57,%f - ollama_chat.gui.model_selector - INFO - Loading model: llama2:latest
+2025-02-10 04:02:57,%f - ollama_chat.backend.service - INFO - Loading model: llama2:latest
+2025-02-10 04:02:57,%f - ollama_chat.backend.ollama_client - INFO - Pulling model: llama2:latest
+2025-02-10 04:02:57,%f - ollama_chat.backend.ollama_client - INFO - Pull status: pulling manifest
+2025-02-10 04:02:58,%f - ollama_chat.backend.ollama_client - INFO - Pull status: pulling 8934d96d3f08
+2025-02-10 04:02:58,%f - ollama_chat.backend.ollama_client - INFO - Pull status: pulling 8c17c2ebb0ea
+2025-02-10 04:02:58,%f - ollama_chat.backend.ollama_client - INFO - Pull status: pulling 7c23fb36d801
+2025-02-10 04:02:58,%f - ollama_chat.backend.ollama_client - INFO - Pull status: pulling 2e0493f67d0c
+2025-02-10 04:02:58,%f - ollama_chat.backend.ollama_client - INFO - Pull status: pulling fa304d675061
+2025-02-10 04:02:58,%f - ollama_chat.backend.ollama_client - INFO - Pull status: pulling 42ba7f8a01dd
+2025-02-10 04:02:58,%f - ollama_chat.backend.ollama_client - INFO - Pull status: verifying sha256 digest
+2025-02-10 04:02:58,%f - ollama_chat.backend.ollama_client - INFO - Pull status: writing manifest
+2025-02-10 04:02:58,%f - ollama_chat.backend.ollama_client - INFO - Pull status: success
+2025-02-10 04:02:58,%f - ollama_chat.backend.ollama_client - INFO - Model pulled: llama2:latest
+2025-02-10 04:02:58,%f - ollama_chat.backend.chat_manager - INFO - Setting model to llama2:latest
+2025-02-10 04:02:58,%f - ollama_chat.backend.service - INFO - Set model: llama2:latest
+2025-02-10 04:02:58,%f - ollama_chat.backend.service - INFO - Model loaded: llama2:latest
+2025-02-10 04:02:58,%f - ollama_chat.gui.model_selector - INFO - Model loaded: llama2:latest
+2025-02-10 04:03:01,%f - ollama_chat.backend.service - INFO - Sending message
+2025-02-10 04:03:01,%f - ollama_chat.backend.chat_manager - INFO - Sending message
+2025-02-10 04:03:01,%f - ollama_chat.backend.history_manager - INFO - Message added to history
+2025-02-10 04:03:01,%f - ollama_chat.backend.history_manager - INFO - Found 1 messages
+2025-02-10 04:03:01,%f - ollama_chat.backend.chat_manager - ERROR - Error sending message: OllamaClient.chat() got an unexpected keyword argument 'messages'
+2025-02-10 04:03:01,%f - ollama_chat.backend.service - ERROR - Error sending message: OllamaClient.chat() got an unexpected keyword argument 'messages'
+2025-02-10 04:03:01,%f - ollama_chat.gui.chat_window - ERROR - Error sending message: OllamaClient.chat() got an unexpected keyword argument 'messages'
+2025-02-10 04:03:05,%f - ollama_chat.gui.app - ERROR - Error handling window closing: This event loop is already running
+2025-02-10 04:03:05,%f - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-2' coro=<App._update() running at /home/nulled/PROGRAMAÇÃO/NexusChat/ollama_chat/gui/app.py:111> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-02-10 04:03:07,%f - ollama_chat.gui.app - ERROR - Error handling window closing: This event loop is already running
+2025-02-10 04:03:07,%f - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-2' coro=<App._update() running at /home/nulled/PROGRAMAÇÃO/NexusChat/ollama_chat/gui/app.py:111> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-02-10 04:03:08,%f - ollama_chat.gui.app - INFO - Starting NexusChat
+2025-02-10 04:03:08,%f - ollama_chat.backend.service - INFO - Initializing backend service
+2025-02-10 04:03:08,%f - ollama_chat.backend.ollama_client - INFO - Initialized Ollama client with base URL: http://localhost:11434
+2025-02-10 04:03:08,%f - ollama_chat.backend.history_manager - INFO - History manager initialized
+2025-02-10 04:03:08,%f - ollama_chat.backend.chat_manager - INFO - Initializing chat manager
+2025-02-10 04:03:08,%f - ollama_chat.backend.chat_manager - INFO - Chat manager initialized
+2025-02-10 04:03:08,%f - ollama_chat.backend.service - INFO - Backend service initialized
+2025-02-10 04:03:08,%f - ollama_chat.gui.app - INFO - Backend initialized
+2025-02-10 04:03:08,%f - ollama_chat.gui.model_selector - INFO - Initializing model selector
+2025-02-10 04:03:08,%f - ollama_chat.gui.model_selector - INFO - Model selector widgets created
+2025-02-10 04:03:08,%f - ollama_chat.gui.model_selector - INFO - Model selector bindings setup
+2025-02-10 04:03:08,%f - ollama_chat.gui.model_selector - INFO - Model selector message queue initialized
+2025-02-10 04:03:08,%f - ollama_chat.gui.model_selector - INFO - Model selector initialized
+2025-02-10 04:03:08,%f - ollama_chat.gui.chat_window - INFO - Initializing chat window
+2025-02-10 04:03:09,%f - ollama_chat.gui.chat_window - INFO - Chat window widgets created
+2025-02-10 04:03:09,%f - ollama_chat.gui.chat_window - INFO - Chat window bindings setup
+2025-02-10 04:03:09,%f - ollama_chat.gui.chat_window - INFO - Chat window message queue initialized
+2025-02-10 04:03:09,%f - ollama_chat.gui.chat_window - INFO - Chat window initialized
+2025-02-10 04:03:09,%f - ollama_chat.gui.app - INFO - GUI initialized
+2025-02-10 04:03:09,%f - ollama_chat.gui.app - INFO - NexusChat initialized
+2025-02-10 04:03:09,%f - ollama_chat.gui.model_selector - INFO - Loading models
+2025-02-10 04:03:09,%f - ollama_chat.backend.service - INFO - Listing models
+2025-02-10 04:03:09,%f - ollama_chat.backend.ollama_client - INFO - Listing available models
+2025-02-10 04:03:09,%f - ollama_chat.backend.ollama_client - INFO - Found 6 models: ['llama2:latest', 'codellama:latest', 'llama3.2:latest', 'mistral:latest', 'orca-mini:latest', 'neural-chat:latest']
+2025-02-10 04:03:09,%f - ollama_chat.gui.model_selector - INFO - Models loaded: ['llama2:latest', 'codellama:latest', 'llama3.2:latest', 'mistral:latest', 'orca-mini:latest', 'neural-chat:latest']
+2025-02-10 04:03:12,%f - ollama_chat.gui.app - ERROR - Error handling window closing: This event loop is already running
+2025-02-10 04:03:12,%f - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-2' coro=<App._update() running at /home/nulled/PROGRAMAÇÃO/NexusChat/ollama_chat/gui/app.py:111> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-02-10 04:03:17,%f - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x78368ab9cc80>
+2025-02-10 04:03:19,%f - ollama_chat.gui.app - ERROR - Error handling window closing: This event loop is already running
+2025-02-10 04:03:19,%f - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-2' coro=<App._update() running at /home/nulled/PROGRAMAÇÃO/NexusChat/ollama_chat/gui/app.py:111> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-02-10 04:03:37,%f - ollama_chat.gui.app - INFO - Starting NexusChat
+2025-02-10 04:03:37,%f - ollama_chat.backend.service - INFO - Initializing backend service
+2025-02-10 04:03:37,%f - ollama_chat.backend.ollama_client - INFO - Initialized Ollama client with base URL: http://localhost:11434
+2025-02-10 04:03:37,%f - ollama_chat.backend.history_manager - INFO - History manager initialized
+2025-02-10 04:03:37,%f - ollama_chat.backend.chat_manager - INFO - Initializing chat manager
+2025-02-10 04:03:37,%f - ollama_chat.backend.chat_manager - INFO - Chat manager initialized
+2025-02-10 04:03:37,%f - ollama_chat.backend.service - INFO - Backend service initialized
+2025-02-10 04:03:37,%f - ollama_chat.gui.app - INFO - Backend initialized
+2025-02-10 04:03:37,%f - ollama_chat.gui.model_selector - INFO - Initializing model selector
+2025-02-10 04:03:37,%f - ollama_chat.gui.model_selector - INFO - Model selector widgets created
+2025-02-10 04:03:37,%f - ollama_chat.gui.model_selector - INFO - Model selector bindings setup
+2025-02-10 04:03:37,%f - ollama_chat.gui.model_selector - INFO - Model selector message queue initialized
+2025-02-10 04:03:37,%f - ollama_chat.gui.model_selector - INFO - Model selector initialized
+2025-02-10 04:03:37,%f - ollama_chat.gui.chat_window - INFO - Initializing chat window
+2025-02-10 04:03:37,%f - ollama_chat.gui.chat_window - INFO - Chat window widgets created
+2025-02-10 04:03:37,%f - ollama_chat.gui.chat_window - INFO - Chat window bindings setup
+2025-02-10 04:03:37,%f - ollama_chat.gui.chat_window - INFO - Chat window message queue initialized
+2025-02-10 04:03:37,%f - ollama_chat.gui.chat_window - INFO - Chat window initialized
+2025-02-10 04:03:37,%f - ollama_chat.gui.app - INFO - GUI initialized
+2025-02-10 04:03:37,%f - ollama_chat.gui.app - INFO - NexusChat initialized
+2025-02-10 04:03:37,%f - ollama_chat.gui.model_selector - INFO - Loading models
+2025-02-10 04:03:37,%f - ollama_chat.backend.service - INFO - Listing models
+2025-02-10 04:03:37,%f - ollama_chat.backend.ollama_client - INFO - Listing available models
+2025-02-10 04:03:38,%f - ollama_chat.backend.ollama_client - INFO - Found 6 models: ['llama2:latest', 'codellama:latest', 'llama3.2:latest', 'mistral:latest', 'orca-mini:latest', 'neural-chat:latest']
+2025-02-10 04:03:38,%f - ollama_chat.gui.model_selector - INFO - Models loaded: ['llama2:latest', 'codellama:latest', 'llama3.2:latest', 'mistral:latest', 'orca-mini:latest', 'neural-chat:latest']
+2025-02-10 04:03:41,%f - ollama_chat.gui.model_selector - INFO - Selected model: orca-mini:latest
+2025-02-10 04:03:43,%f - ollama_chat.gui.model_selector - INFO - Loading model: orca-mini:latest
+2025-02-10 04:03:43,%f - ollama_chat.backend.service - INFO - Loading model: orca-mini:latest
+2025-02-10 04:03:43,%f - ollama_chat.backend.ollama_client - INFO - Pulling model: orca-mini:latest
+2025-02-10 04:03:43,%f - ollama_chat.backend.ollama_client - INFO - Pull status: pulling manifest
+2025-02-10 04:03:44,%f - ollama_chat.backend.ollama_client - INFO - Pull status: pulling 66002b78c70a
+2025-02-10 04:03:44,%f - ollama_chat.backend.ollama_client - INFO - Pull status: pulling dd90d0f2b7ee
+2025-02-10 04:03:44,%f - ollama_chat.backend.ollama_client - INFO - Pull status: pulling 93ca9b3d83dc
+2025-02-10 04:03:44,%f - ollama_chat.backend.ollama_client - INFO - Pull status: pulling 33eb43a1488d
+2025-02-10 04:03:44,%f - ollama_chat.backend.ollama_client - INFO - Pull status: pulling fd52b10ee3ee
+2025-02-10 04:03:44,%f - ollama_chat.backend.ollama_client - INFO - Pull status: verifying sha256 digest
+2025-02-10 04:03:44,%f - ollama_chat.backend.ollama_client - INFO - Pull status: writing manifest
+2025-02-10 04:03:44,%f - ollama_chat.backend.ollama_client - INFO - Pull status: success
+2025-02-10 04:03:44,%f - ollama_chat.backend.ollama_client - INFO - Model pulled: orca-mini:latest
+2025-02-10 04:03:44,%f - ollama_chat.backend.chat_manager - INFO - Setting model to orca-mini:latest
+2025-02-10 04:03:44,%f - ollama_chat.backend.service - INFO - Set model: orca-mini:latest
+2025-02-10 04:03:44,%f - ollama_chat.backend.service - INFO - Model loaded: orca-mini:latest
+2025-02-10 04:03:44,%f - ollama_chat.gui.model_selector - INFO - Model loaded: orca-mini:latest
+2025-02-10 04:03:57,%f - ollama_chat.backend.service - INFO - Sending message
+2025-02-10 04:03:57,%f - ollama_chat.backend.chat_manager - INFO - Sending message
+2025-02-10 04:04:08,%f - ollama_chat.backend.history_manager - INFO - Message added to history
+2025-02-10 04:04:08,%f - ollama_chat.backend.history_manager - INFO - Message added to history
+2025-02-10 04:04:28,%f - ollama_chat.gui.app - INFO - Starting NexusChat
+2025-02-10 04:04:28,%f - ollama_chat.backend.service - INFO - Initializing backend service
+2025-02-10 04:04:28,%f - ollama_chat.backend.ollama_client - INFO - Initialized Ollama client with base URL: http://localhost:11434
+2025-02-10 04:04:28,%f - ollama_chat.backend.history_manager - INFO - History manager initialized
+2025-02-10 04:04:28,%f - ollama_chat.backend.chat_manager - INFO - Initializing chat manager
+2025-02-10 04:04:28,%f - ollama_chat.backend.chat_manager - INFO - Chat manager initialized
+2025-02-10 04:04:28,%f - ollama_chat.backend.service - INFO - Backend service initialized
+2025-02-10 04:04:28,%f - ollama_chat.gui.app - INFO - Backend initialized
+2025-02-10 04:04:28,%f - ollama_chat.gui.model_selector - INFO - Initializing model selector
+2025-02-10 04:04:28,%f - ollama_chat.gui.model_selector - INFO - Model selector widgets created
+2025-02-10 04:04:28,%f - ollama_chat.gui.model_selector - INFO - Model selector bindings setup
+2025-02-10 04:04:28,%f - ollama_chat.gui.model_selector - INFO - Model selector message queue initialized
+2025-02-10 04:04:28,%f - ollama_chat.gui.model_selector - INFO - Model selector initialized
+2025-02-10 04:04:28,%f - ollama_chat.gui.chat_window - INFO - Initializing chat window
+2025-02-10 04:04:28,%f - ollama_chat.gui.chat_window - INFO - Creating chat window widgets
+2025-02-10 04:04:28,%f - ollama_chat.gui.chat_window - INFO - Chat window widgets created
+2025-02-10 04:04:28,%f - ollama_chat.gui.chat_window - INFO - Setting up chat window bindings
+2025-02-10 04:04:28,%f - ollama_chat.gui.chat_window - INFO - Chat window bindings setup
+2025-02-10 04:04:28,%f - ollama_chat.gui.chat_window - INFO - Initializing chat window message queue
+2025-02-10 04:04:28,%f - ollama_chat.gui.chat_window - INFO - Chat window message queue initialized
+2025-02-10 04:04:28,%f - ollama_chat.gui.chat_window - INFO - Chat window initialized
+2025-02-10 04:04:28,%f - ollama_chat.gui.app - INFO - GUI initialized
+2025-02-10 04:04:28,%f - ollama_chat.gui.app - INFO - NexusChat initialized
+2025-02-10 04:04:28,%f - ollama_chat.gui.model_selector - INFO - Loading models
+2025-02-10 04:04:28,%f - ollama_chat.backend.service - INFO - Listing models
+2025-02-10 04:04:28,%f - ollama_chat.backend.ollama_client - INFO - Listing available models
+2025-02-10 04:04:28,%f - ollama_chat.backend.ollama_client - INFO - Found 6 models: ['orca-mini:latest', 'llama2:latest', 'codellama:latest', 'llama3.2:latest', 'mistral:latest', 'neural-chat:latest']
+2025-02-10 04:04:28,%f - ollama_chat.gui.model_selector - INFO - Models loaded: ['orca-mini:latest', 'llama2:latest', 'codellama:latest', 'llama3.2:latest', 'mistral:latest', 'neural-chat:latest']
+2025-02-10 04:04:30,%f - ollama_chat.backend.service - INFO - Service closed
+2025-02-10 04:04:30,%f - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-2' coro=<App._update() running at /home/nulled/PROGRAMAÇÃO/NexusChat/ollama_chat/gui/app.py:111> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-02-10 04:05:03,%f - ollama_chat.gui.model_selector - INFO - Selected model: codellama:latest
+2025-02-10 04:05:05,%f - ollama_chat.gui.model_selector - INFO - Loading model: codellama:latest
+2025-02-10 04:05:05,%f - ollama_chat.backend.service - INFO - Loading model: codellama:latest
+2025-02-10 04:05:05,%f - ollama_chat.backend.ollama_client - INFO - Pulling model: codellama:latest
+2025-02-10 04:05:05,%f - ollama_chat.backend.ollama_client - INFO - Pull status: pulling manifest
+2025-02-10 04:05:05,%f - ollama_chat.backend.ollama_client - INFO - Pull status: pulling 3a43f93b78ec
+2025-02-10 04:05:05,%f - ollama_chat.backend.ollama_client - INFO - Pull status: pulling 8c17c2ebb0ea
+2025-02-10 04:05:05,%f - ollama_chat.backend.ollama_client - INFO - Pull status: pulling 590d74a5569b
+2025-02-10 04:05:05,%f - ollama_chat.backend.ollama_client - INFO - Pull status: pulling 2e0493f67d0c
+2025-02-10 04:05:05,%f - ollama_chat.backend.ollama_client - INFO - Pull status: pulling 7f6a57943a88
+2025-02-10 04:05:05,%f - ollama_chat.backend.ollama_client - INFO - Pull status: pulling 316526ac7323
+2025-02-10 04:05:05,%f - ollama_chat.backend.ollama_client - INFO - Pull status: verifying sha256 digest
+2025-02-10 04:05:05,%f - ollama_chat.backend.ollama_client - INFO - Pull status: writing manifest
+2025-02-10 04:05:05,%f - ollama_chat.backend.ollama_client - INFO - Pull status: success
+2025-02-10 04:05:05,%f - ollama_chat.backend.ollama_client - INFO - Model pulled: codellama:latest
+2025-02-10 04:05:05,%f - ollama_chat.backend.chat_manager - INFO - Setting model to codellama:latest
+2025-02-10 04:05:05,%f - ollama_chat.backend.service - INFO - Set model: codellama:latest
+2025-02-10 04:05:05,%f - ollama_chat.backend.service - INFO - Model loaded: codellama:latest
+2025-02-10 04:05:05,%f - ollama_chat.gui.model_selector - INFO - Model loaded: codellama:latest
+2025-02-10 04:05:43,%f - ollama_chat.backend.service - INFO - Sending message
+2025-02-10 04:05:43,%f - ollama_chat.backend.chat_manager - INFO - Sending message
+2025-02-10 04:07:12,%f - ollama_chat.backend.history_manager - INFO - Message added to history
+2025-02-10 04:07:12,%f - ollama_chat.backend.history_manager - INFO - Message added to history
+2025-02-10 04:07:44,%f - ollama_chat.backend.service - INFO - Sending message
+2025-02-10 04:07:44,%f - ollama_chat.backend.chat_manager - INFO - Sending message
+2025-02-10 04:10:51,%f - ollama_chat.backend.history_manager - INFO - Message added to history
+2025-02-10 04:10:51,%f - ollama_chat.backend.history_manager - INFO - Message added to history
+2025-02-10 04:12:53,%f - ollama_chat.backend.service - INFO - Sending message
+2025-02-10 04:12:53,%f - ollama_chat.backend.chat_manager - INFO - Sending message
+2025-02-10 04:13:24,%f - ollama_chat.backend.history_manager - INFO - Message added to history
+2025-02-10 04:13:24,%f - ollama_chat.backend.history_manager - INFO - Message added to history
+2025-02-10 04:13:57,%f - ollama_chat.backend.service - INFO - Sending message
+2025-02-10 04:13:57,%f - ollama_chat.backend.chat_manager - INFO - Sending message
+2025-02-10 04:15:40,%f - ollama_chat.backend.history_manager - INFO - Message added to history
+2025-02-10 04:15:40,%f - ollama_chat.backend.history_manager - INFO - Message added to history
+2025-02-10 04:16:03,%f - ollama_chat.gui.app - INFO - Starting NexusChat
+2025-02-10 04:16:04,%f - ollama_chat.backend.service - INFO - Initializing backend service
+2025-02-10 04:16:04,%f - ollama_chat.backend.ollama_client - INFO - Initialized Ollama client with base URL: http://localhost:11434
+2025-02-10 04:16:04,%f - ollama_chat.backend.history_manager - INFO - History manager initialized
+2025-02-10 04:16:04,%f - ollama_chat.backend.chat_manager - INFO - Initializing chat manager
+2025-02-10 04:16:04,%f - ollama_chat.backend.chat_manager - INFO - Chat manager initialized
+2025-02-10 04:16:04,%f - ollama_chat.backend.service - INFO - Backend service initialized
+2025-02-10 04:16:04,%f - ollama_chat.gui.app - INFO - Backend initialized
+2025-02-10 04:16:04,%f - ollama_chat.gui.model_selector - INFO - Initializing model selector
+2025-02-10 04:16:04,%f - ollama_chat.gui.model_selector - INFO - Model selector widgets created
+2025-02-10 04:16:04,%f - ollama_chat.gui.model_selector - INFO - Model selector bindings setup
+2025-02-10 04:16:04,%f - ollama_chat.gui.model_selector - INFO - Model selector message queue initialized
+2025-02-10 04:16:04,%f - ollama_chat.gui.model_selector - INFO - Model selector initialized
+2025-02-10 04:16:04,%f - ollama_chat.gui.chat_window - INFO - Initializing chat window
+2025-02-10 04:16:04,%f - ollama_chat.gui.chat_window - INFO - Creating chat window widgets
+2025-02-10 04:16:04,%f - ollama_chat.gui.chat_window - INFO - Chat window widgets created
+2025-02-10 04:16:04,%f - ollama_chat.gui.chat_window - INFO - Setting up chat window bindings
+2025-02-10 04:16:04,%f - ollama_chat.gui.chat_window - INFO - Chat window bindings setup
+2025-02-10 04:16:04,%f - ollama_chat.gui.chat_window - INFO - Initializing chat window message queue
+2025-02-10 04:16:04,%f - ollama_chat.gui.chat_window - INFO - Chat window message queue initialized
+2025-02-10 04:16:04,%f - ollama_chat.gui.chat_window - INFO - Chat window initialized
+2025-02-10 04:16:04,%f - ollama_chat.gui.app - INFO - GUI initialized
+2025-02-10 04:16:04,%f - ollama_chat.gui.app - INFO - NexusChat initialized
+2025-02-10 04:16:04,%f - ollama_chat.gui.model_selector - INFO - Loading models
+2025-02-10 04:16:04,%f - ollama_chat.backend.service - INFO - Listing models
+2025-02-10 04:16:04,%f - ollama_chat.backend.ollama_client - INFO - Listing available models
+2025-02-10 04:16:04,%f - ollama_chat.backend.ollama_client - INFO - Found 6 models: ['codellama:latest', 'orca-mini:latest', 'llama2:latest', 'llama3.2:latest', 'mistral:latest', 'neural-chat:latest']
+2025-02-10 04:16:04,%f - ollama_chat.gui.model_selector - INFO - Models loaded: ['codellama:latest', 'orca-mini:latest', 'llama2:latest', 'llama3.2:latest', 'mistral:latest', 'neural-chat:latest']
+2025-02-10 04:16:17,%f - ollama_chat.backend.service - INFO - Service closed
+2025-02-10 04:16:17,%f - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-3' coro=<App._update() running at /home/nulled/PROGRAMAÇÃO/NexusChat/ollama_chat/gui/app.py:111> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-02-10 04:17:29,%f - ollama_chat.gui.app - INFO - Starting NexusChat
+2025-02-10 04:17:29,%f - ollama_chat.backend.service - INFO - Initializing backend service
+2025-02-10 04:17:29,%f - ollama_chat.backend.ollama_client - INFO - Initialized Ollama client with base URL: http://localhost:11434
+2025-02-10 04:17:29,%f - ollama_chat.backend.history_manager - INFO - History manager initialized
+2025-02-10 04:17:29,%f - ollama_chat.backend.chat_manager - INFO - Initializing chat manager
+2025-02-10 04:17:29,%f - ollama_chat.backend.chat_manager - INFO - Chat manager initialized
+2025-02-10 04:17:29,%f - ollama_chat.backend.service - INFO - Backend service initialized
+2025-02-10 04:17:29,%f - ollama_chat.gui.app - INFO - Backend initialized
+2025-02-10 04:17:29,%f - ollama_chat.gui.model_selector - INFO - Initializing model selector
+2025-02-10 04:17:29,%f - ollama_chat.gui.model_selector - INFO - Model selector widgets created
+2025-02-10 04:17:29,%f - ollama_chat.gui.model_selector - INFO - Model selector bindings setup
+2025-02-10 04:17:29,%f - ollama_chat.gui.model_selector - INFO - Model selector message queue initialized
+2025-02-10 04:17:29,%f - ollama_chat.gui.model_selector - INFO - Model selector initialized
+2025-02-10 04:17:29,%f - ollama_chat.gui.chat_window - INFO - Initializing chat window
+2025-02-10 04:17:29,%f - ollama_chat.gui.chat_window - INFO - Creating chat window widgets
+2025-02-10 04:17:30,%f - ollama_chat.gui.chat_window - INFO - Chat window widgets created
+2025-02-10 04:17:30,%f - ollama_chat.gui.chat_window - INFO - Setting up chat window bindings
+2025-02-10 04:17:30,%f - ollama_chat.gui.chat_window - INFO - Chat window bindings setup
+2025-02-10 04:17:30,%f - ollama_chat.gui.chat_window - INFO - Initializing chat window message queue
+2025-02-10 04:17:30,%f - ollama_chat.gui.chat_window - INFO - Chat window message queue initialized
+2025-02-10 04:17:30,%f - ollama_chat.gui.chat_window - INFO - Chat window initialized
+2025-02-10 04:17:30,%f - ollama_chat.gui.app - INFO - GUI initialized
+2025-02-10 04:17:30,%f - ollama_chat.gui.app - INFO - NexusChat initialized
+2025-02-10 04:17:30,%f - ollama_chat.gui.model_selector - INFO - Loading models
+2025-02-10 04:17:30,%f - ollama_chat.backend.service - INFO - Listing models
+2025-02-10 04:17:30,%f - ollama_chat.backend.ollama_client - INFO - Listing available models
+2025-02-10 04:17:30,%f - ollama_chat.backend.ollama_client - INFO - Found 4 models: ['orca-mini:latest', 'llama3.2:latest', 'mistral:latest', 'neural-chat:latest']
+2025-02-10 04:17:30,%f - ollama_chat.gui.model_selector - INFO - Models loaded: ['orca-mini:latest', 'llama3.2:latest', 'mistral:latest', 'neural-chat:latest']
+2025-02-10 04:17:44,%f - ollama_chat.backend.service - INFO - Service closed
+2025-02-10 04:17:44,%f - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-3' coro=<App._update() running at /home/nulled/PROGRAMAÇÃO/NexusChat/ollama_chat/gui/app.py:111> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-02-10 04:21:51,%f - ollama_chat.gui.app - INFO - Starting NexusChat
+2025-02-10 04:21:51,%f - ollama_chat.backend.service - INFO - Initializing backend service
+2025-02-10 04:21:51,%f - ollama_chat.backend.ollama_client - INFO - Initialized Ollama client with base URL: http://localhost:11434
+2025-02-10 04:21:51,%f - ollama_chat.backend.history_manager - INFO - History manager initialized
+2025-02-10 04:21:51,%f - ollama_chat.backend.chat_manager - INFO - Initializing chat manager
+2025-02-10 04:21:51,%f - ollama_chat.backend.chat_manager - INFO - Chat manager initialized
+2025-02-10 04:21:51,%f - ollama_chat.backend.service - INFO - Backend service initialized
+2025-02-10 04:21:51,%f - ollama_chat.gui.app - INFO - Backend initialized
+2025-02-10 04:21:51,%f - ollama_chat.gui.model_selector - INFO - Initializing model selector
+2025-02-10 04:21:51,%f - ollama_chat.gui.model_selector - INFO - Model selector widgets created
+2025-02-10 04:21:51,%f - ollama_chat.gui.model_selector - INFO - Model selector bindings setup
+2025-02-10 04:21:51,%f - ollama_chat.gui.model_selector - INFO - Model selector message queue initialized
+2025-02-10 04:21:51,%f - ollama_chat.gui.model_selector - INFO - Model selector initialized
+2025-02-10 04:21:51,%f - ollama_chat.gui.chat_window - INFO - Initializing chat window
+2025-02-10 04:21:51,%f - ollama_chat.gui.chat_window - INFO - Creating chat window widgets
+2025-02-10 04:21:51,%f - ollama_chat.gui.chat_window - INFO - Chat window widgets created
+2025-02-10 04:21:51,%f - ollama_chat.gui.chat_window - INFO - Setting up chat window bindings
+2025-02-10 04:21:51,%f - ollama_chat.gui.chat_window - INFO - Chat window bindings setup
+2025-02-10 04:21:51,%f - ollama_chat.gui.chat_window - INFO - Initializing chat window message queue
+2025-02-10 04:21:51,%f - ollama_chat.gui.chat_window - INFO - Chat window message queue initialized
+2025-02-10 04:21:51,%f - ollama_chat.gui.chat_window - INFO - Chat window initialized
+2025-02-10 04:21:51,%f - ollama_chat.gui.app - INFO - GUI initialized
+2025-02-10 04:21:51,%f - ollama_chat.gui.app - INFO - NexusChat initialized
+2025-02-10 04:21:51,%f - ollama_chat.gui.model_selector - INFO - Loading models
+2025-02-10 04:21:51,%f - ollama_chat.backend.service - INFO - Listing models
+2025-02-10 04:21:51,%f - ollama_chat.backend.ollama_client - INFO - Listing available models
+2025-02-10 04:21:51,%f - ollama_chat.backend.ollama_client - INFO - Found 6 models: ['solar:latest', 'phi:latest', 'orca-mini:latest', 'llama3.2:latest', 'mistral:latest', 'neural-chat:latest']
+2025-02-10 04:21:51,%f - ollama_chat.gui.model_selector - INFO - Models loaded: ['solar:latest', 'phi:latest', 'orca-mini:latest', 'llama3.2:latest', 'mistral:latest', 'neural-chat:latest']
+2025-02-10 04:30:29,%f - ollama_chat.gui.app - INFO - Starting NexusChat
+2025-02-10 04:30:29,%f - ollama_chat.backend.service - INFO - Initializing backend service
+2025-02-10 04:30:29,%f - ollama_chat.backend.ollama_client - INFO - Initialized Ollama client with base URL: http://localhost:11434
+2025-02-10 04:30:29,%f - ollama_chat.backend.history_manager - INFO - History manager initialized
+2025-02-10 04:30:29,%f - ollama_chat.backend.chat_manager - INFO - Initializing chat manager
+2025-02-10 04:30:29,%f - ollama_chat.backend.chat_manager - INFO - Chat manager initialized
+2025-02-10 04:30:29,%f - ollama_chat.backend.service - INFO - Backend service initialized
+2025-02-10 04:30:29,%f - ollama_chat.gui.app - INFO - Backend initialized
+2025-02-10 04:30:29,%f - ollama_chat.gui.model_selector - INFO - Initializing model selector
+2025-02-10 04:30:29,%f - ollama_chat.gui.model_selector - INFO - Model selector widgets created
+2025-02-10 04:30:29,%f - ollama_chat.gui.model_selector - INFO - Model selector bindings setup
+2025-02-10 04:30:29,%f - ollama_chat.gui.model_selector - INFO - Model selector message queue initialized
+2025-02-10 04:30:29,%f - ollama_chat.gui.model_selector - INFO - Model selector initialized
+2025-02-10 04:30:29,%f - ollama_chat.gui.chat_window - INFO - Initializing chat window
+2025-02-10 04:30:29,%f - ollama_chat.gui.chat_window - INFO - Creating chat window widgets
+2025-02-10 04:30:29,%f - ollama_chat.gui.chat_window - INFO - Chat window widgets created
+2025-02-10 04:30:29,%f - ollama_chat.gui.chat_window - INFO - Setting up chat window bindings
+2025-02-10 04:30:29,%f - ollama_chat.gui.chat_window - INFO - Chat window bindings setup
+2025-02-10 04:30:29,%f - ollama_chat.gui.chat_window - INFO - Initializing chat window message queue
+2025-02-10 04:30:29,%f - ollama_chat.gui.chat_window - INFO - Chat window message queue initialized
+2025-02-10 04:30:29,%f - ollama_chat.gui.chat_window - INFO - Chat window initialized
+2025-02-10 04:30:29,%f - ollama_chat.gui.app - INFO - GUI initialized
+2025-02-10 04:30:29,%f - ollama_chat.gui.app - INFO - NexusChat initialized
+2025-02-10 04:30:29,%f - ollama_chat.gui.model_selector - INFO - Loading models
+2025-02-10 04:30:29,%f - ollama_chat.backend.service - INFO - Listing models
+2025-02-10 04:30:29,%f - ollama_chat.backend.ollama_client - INFO - Listing available models
+2025-02-10 04:30:29,%f - ollama_chat.backend.ollama_client - INFO - Found 7 models: ['deepseek-coder:1.3b', 'solar:latest', 'phi:latest', 'orca-mini:latest', 'llama3.2:latest', 'mistral:latest', 'neural-chat:latest']
+2025-02-10 04:30:29,%f - ollama_chat.gui.model_selector - INFO - Models loaded: ['deepseek-coder:1.3b', 'solar:latest', 'phi:latest', 'orca-mini:latest', 'llama3.2:latest', 'mistral:latest', 'neural-chat:latest']
+2025-02-10 04:30:45,%f - ollama_chat.backend.service - INFO - Service closed
+2025-02-10 04:30:45,%f - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-3' coro=<App._update() running at /home/nulled/PROGRAMAÇÃO/NexusChat/ollama_chat/gui/app.py:111> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-02-10 04:34:41,%f - ollama_chat.gui.app - INFO - Starting NexusChat
+2025-02-10 04:34:41,%f - ollama_chat.backend.service - INFO - Initializing backend service
+2025-02-10 04:34:41,%f - ollama_chat.backend.ollama_client - INFO - Initialized Ollama client with base URL: http://localhost:11434
+2025-02-10 04:34:41,%f - ollama_chat.backend.history_manager - INFO - History manager initialized
+2025-02-10 04:34:41,%f - ollama_chat.backend.chat_manager - INFO - Initializing chat manager
+2025-02-10 04:34:41,%f - ollama_chat.backend.chat_manager - INFO - Chat manager initialized
+2025-02-10 04:34:41,%f - ollama_chat.backend.service - INFO - Backend service initialized
+2025-02-10 04:34:41,%f - ollama_chat.gui.app - INFO - Backend initialized
+2025-02-10 04:34:41,%f - ollama_chat.gui.model_selector - INFO - Initializing model selector
+2025-02-10 04:34:41,%f - ollama_chat.gui.model_selector - INFO - Model selector widgets created
+2025-02-10 04:34:41,%f - ollama_chat.gui.model_selector - INFO - Model selector bindings setup
+2025-02-10 04:34:41,%f - ollama_chat.gui.model_selector - INFO - Model selector message queue initialized
+2025-02-10 04:34:41,%f - ollama_chat.gui.model_selector - INFO - Model selector initialized
+2025-02-10 04:34:41,%f - ollama_chat.gui.chat_window - INFO - Initializing chat window
+2025-02-10 04:34:41,%f - ollama_chat.gui.chat_window - INFO - Creating chat window widgets
+2025-02-10 04:34:42,%f - ollama_chat.gui.chat_window - INFO - Chat window widgets created
+2025-02-10 04:34:42,%f - ollama_chat.gui.chat_window - INFO - Setting up chat window bindings
+2025-02-10 04:34:42,%f - ollama_chat.gui.chat_window - INFO - Chat window bindings setup
+2025-02-10 04:34:42,%f - ollama_chat.gui.chat_window - INFO - Initializing chat window message queue
+2025-02-10 04:34:42,%f - ollama_chat.gui.chat_window - INFO - Chat window message queue initialized
+2025-02-10 04:34:42,%f - ollama_chat.gui.chat_window - INFO - Chat window initialized
+2025-02-10 04:34:42,%f - ollama_chat.gui.app - INFO - GUI initialized
+2025-02-10 04:34:42,%f - ollama_chat.gui.app - INFO - NexusChat initialized
+2025-02-10 04:34:42,%f - ollama_chat.gui.model_selector - INFO - Loading models
+2025-02-10 04:34:42,%f - ollama_chat.backend.service - INFO - Listing models
+2025-02-10 04:34:42,%f - ollama_chat.backend.ollama_client - INFO - Listing available models
+2025-02-10 04:34:42,%f - ollama_chat.backend.ollama_client - INFO - Found 8 models: ['deepseek-coder:6.7b-base', 'deepseek-coder:1.3b', 'solar:latest', 'phi:latest', 'orca-mini:latest', 'llama3.2:latest', 'mistral:latest', 'neural-chat:latest']
+2025-02-10 04:34:42,%f - ollama_chat.gui.model_selector - INFO - Models loaded: ['deepseek-coder:6.7b-base', 'deepseek-coder:1.3b', 'solar:latest', 'phi:latest', 'orca-mini:latest', 'llama3.2:latest', 'mistral:latest', 'neural-chat:latest']
+2025-02-10 04:35:13,%f - ollama_chat.gui.model_selector - INFO - Loading model: deepseek-coder:6.7b-base
+2025-02-10 04:35:13,%f - ollama_chat.backend.service - INFO - Loading model: deepseek-coder:6.7b-base
+2025-02-10 04:35:13,%f - ollama_chat.backend.ollama_client - INFO - Pulling model: deepseek-coder:6.7b-base
+2025-02-10 04:35:13,%f - ollama_chat.backend.ollama_client - INFO - Pull status: pulling manifest
+2025-02-10 04:35:14,%f - ollama_chat.backend.ollama_client - INFO - Pull status: pulling 03eebe54e213
+2025-02-10 04:35:14,%f - ollama_chat.backend.ollama_client - INFO - Pull status: pulling ccfee4895df0
+2025-02-10 04:35:14,%f - ollama_chat.backend.ollama_client - INFO - Pull status: pulling a1bf23c6d816
+2025-02-10 04:35:14,%f - ollama_chat.backend.ollama_client - INFO - Pull status: verifying sha256 digest
+2025-02-10 04:35:14,%f - ollama_chat.backend.ollama_client - INFO - Pull status: writing manifest
+2025-02-10 04:35:14,%f - ollama_chat.backend.ollama_client - INFO - Pull status: success
+2025-02-10 04:35:14,%f - ollama_chat.backend.ollama_client - INFO - Model pulled: deepseek-coder:6.7b-base
+2025-02-10 04:35:14,%f - ollama_chat.backend.chat_manager - INFO - Setting model to deepseek-coder:6.7b-base
+2025-02-10 04:35:14,%f - ollama_chat.backend.service - INFO - Set model: deepseek-coder:6.7b-base
+2025-02-10 04:35:14,%f - ollama_chat.backend.service - INFO - Model loaded: deepseek-coder:6.7b-base
+2025-02-10 04:35:14,%f - ollama_chat.gui.model_selector - INFO - Model loaded: deepseek-coder:6.7b-base
+2025-02-10 04:35:51,%f - ollama_chat.backend.service - INFO - Service closed
+2025-02-10 04:35:51,%f - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-3' coro=<App._update() running at /home/nulled/PROGRAMAÇÃO/NexusChat/ollama_chat/gui/app.py:111> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-02-10 04:38:04,%f - ollama_chat.gui.app - INFO - Starting NexusChat
+2025-02-10 04:38:04,%f - ollama_chat.backend.service - INFO - Initializing backend service
+2025-02-10 04:38:04,%f - ollama_chat.backend.ollama_client - INFO - Initialized Ollama client with base URL: http://localhost:11434
+2025-02-10 04:38:04,%f - ollama_chat.backend.history_manager - INFO - History manager initialized
+2025-02-10 04:38:04,%f - ollama_chat.backend.chat_manager - INFO - Initializing chat manager
+2025-02-10 04:38:04,%f - ollama_chat.backend.chat_manager - INFO - Chat manager initialized
+2025-02-10 04:38:04,%f - ollama_chat.backend.service - INFO - Backend service initialized
+2025-02-10 04:38:04,%f - ollama_chat.gui.app - INFO - Backend initialized
+2025-02-10 04:38:04,%f - ollama_chat.gui.model_selector - INFO - Initializing model selector
+2025-02-10 04:38:04,%f - ollama_chat.gui.model_selector - INFO - Model selector widgets created
+2025-02-10 04:38:04,%f - ollama_chat.gui.model_selector - INFO - Model selector bindings setup
+2025-02-10 04:38:04,%f - ollama_chat.gui.model_selector - INFO - Model selector message queue initialized
+2025-02-10 04:38:04,%f - ollama_chat.gui.model_selector - INFO - Model selector initialized
+2025-02-10 04:38:04,%f - ollama_chat.gui.chat_window - INFO - Initializing chat window
+2025-02-10 04:38:04,%f - ollama_chat.gui.chat_window - INFO - Creating chat window widgets
+2025-02-10 04:38:04,%f - ollama_chat.gui.chat_window - INFO - Chat window widgets created
+2025-02-10 04:38:04,%f - ollama_chat.gui.chat_window - INFO - Setting up chat window bindings
+2025-02-10 04:38:04,%f - ollama_chat.gui.chat_window - INFO - Chat window bindings setup
+2025-02-10 04:38:04,%f - ollama_chat.gui.chat_window - INFO - Initializing chat window message queue
+2025-02-10 04:38:04,%f - ollama_chat.gui.chat_window - INFO - Chat window message queue initialized
+2025-02-10 04:38:04,%f - ollama_chat.gui.chat_window - INFO - Chat window initialized
+2025-02-10 04:38:04,%f - ollama_chat.gui.app - INFO - GUI initialized
+2025-02-10 04:38:04,%f - ollama_chat.gui.app - INFO - NexusChat initialized
+2025-02-10 04:38:04,%f - ollama_chat.gui.model_selector - INFO - Loading models
+2025-02-10 04:38:04,%f - ollama_chat.backend.service - INFO - Listing models
+2025-02-10 04:38:04,%f - ollama_chat.backend.ollama_client - INFO - Listing available models
+2025-02-10 04:38:04,%f - ollama_chat.backend.ollama_client - INFO - Found 8 models: ['deepseek-coder:6.7b-base', 'deepseek-coder:1.3b', 'solar:latest', 'phi:latest', 'orca-mini:latest', 'llama3.2:latest', 'mistral:latest', 'neural-chat:latest']
+2025-02-10 04:38:04,%f - ollama_chat.gui.model_selector - INFO - Models loaded: ['deepseek-coder:6.7b-base', 'deepseek-coder:1.3b', 'solar:latest', 'phi:latest', 'orca-mini:latest', 'llama3.2:latest', 'mistral:latest', 'neural-chat:latest']
+2025-02-10 04:40:31,%f - ollama_chat.gui.model_selector - INFO - Loading model: deepseek-coder:6.7b-base
+2025-02-10 04:40:31,%f - ollama_chat.backend.service - INFO - Loading model: deepseek-coder:6.7b-base
+2025-02-10 04:40:31,%f - ollama_chat.backend.ollama_client - INFO - Pulling model: deepseek-coder:6.7b-base
+2025-02-10 04:40:31,%f - ollama_chat.backend.ollama_client - INFO - Pull status: pulling manifest
+2025-02-10 04:40:33,%f - ollama_chat.backend.ollama_client - INFO - Pull status: pulling 03eebe54e213
+2025-02-10 04:40:33,%f - ollama_chat.backend.ollama_client - INFO - Pull status: pulling ccfee4895df0
+2025-02-10 04:40:33,%f - ollama_chat.backend.ollama_client - INFO - Pull status: pulling a1bf23c6d816
+2025-02-10 04:40:33,%f - ollama_chat.backend.ollama_client - INFO - Pull status: verifying sha256 digest
+2025-02-10 04:40:33,%f - ollama_chat.backend.ollama_client - INFO - Pull status: writing manifest
+2025-02-10 04:40:33,%f - ollama_chat.backend.ollama_client - INFO - Pull status: success
+2025-02-10 04:40:33,%f - ollama_chat.backend.ollama_client - INFO - Model pulled: deepseek-coder:6.7b-base
+2025-02-10 04:40:33,%f - ollama_chat.backend.chat_manager - INFO - Setting model to deepseek-coder:6.7b-base
+2025-02-10 04:40:33,%f - ollama_chat.backend.service - INFO - Set model: deepseek-coder:6.7b-base
+2025-02-10 04:40:33,%f - ollama_chat.backend.service - INFO - Model loaded: deepseek-coder:6.7b-base
+2025-02-10 04:40:33,%f - ollama_chat.gui.model_selector - INFO - Model loaded: deepseek-coder:6.7b-base
+2025-02-10 04:41:22,%f - ollama_chat.gui.chat_window - ERROR - Error processing message: BackendService.send_message() got an unexpected keyword argument 'callback'
+2025-02-10 04:41:44,%f - ollama_chat.backend.service - INFO - Service closed
+2025-02-10 04:41:44,%f - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-3' coro=<App._update() running at /home/nulled/PROGRAMAÇÃO/NexusChat/ollama_chat/gui/app.py:111> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-02-10 04:41:47,%f - ollama_chat.backend.service - INFO - Service closed
+2025-02-10 04:41:47,%f - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-3' coro=<App._update() running at /home/nulled/PROGRAMAÇÃO/NexusChat/ollama_chat/gui/app.py:111> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-02-10 04:41:50,%f - ollama_chat.backend.service - INFO - Service closed
+2025-02-10 04:41:50,%f - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-3' coro=<App._update() running at /home/nulled/PROGRAMAÇÃO/NexusChat/ollama_chat/gui/app.py:111> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-02-10 04:43:14,%f - ollama_chat.gui.app - INFO - Starting NexusChat
+2025-02-10 04:43:14,%f - ollama_chat.backend.service - INFO - Initializing backend service
+2025-02-10 04:43:14,%f - ollama_chat.backend.ollama_client - INFO - Initialized Ollama client with base URL: http://localhost:11434
+2025-02-10 04:43:14,%f - ollama_chat.backend.history_manager - INFO - History manager initialized
+2025-02-10 04:43:14,%f - ollama_chat.backend.chat_manager - INFO - Initializing chat manager
+2025-02-10 04:43:14,%f - ollama_chat.backend.chat_manager - INFO - Chat manager initialized
+2025-02-10 04:43:14,%f - ollama_chat.backend.service - INFO - Backend service initialized
+2025-02-10 04:43:14,%f - ollama_chat.gui.app - INFO - Backend initialized
+2025-02-10 04:43:14,%f - ollama_chat.gui.model_selector - INFO - Initializing model selector
+2025-02-10 04:43:14,%f - ollama_chat.gui.model_selector - INFO - Model selector widgets created
+2025-02-10 04:43:14,%f - ollama_chat.gui.model_selector - INFO - Model selector bindings setup
+2025-02-10 04:43:14,%f - ollama_chat.gui.model_selector - INFO - Model selector message queue initialized
+2025-02-10 04:43:14,%f - ollama_chat.gui.model_selector - INFO - Model selector initialized
+2025-02-10 04:43:14,%f - ollama_chat.gui.chat_window - INFO - Initializing chat window
+2025-02-10 04:43:14,%f - ollama_chat.gui.chat_window - INFO - Creating chat window widgets
+2025-02-10 04:43:14,%f - ollama_chat.gui.chat_window - INFO - Chat window widgets created
+2025-02-10 04:43:14,%f - ollama_chat.gui.chat_window - INFO - Setting up chat window bindings
+2025-02-10 04:43:14,%f - ollama_chat.gui.chat_window - INFO - Chat window bindings setup
+2025-02-10 04:43:14,%f - ollama_chat.gui.chat_window - INFO - Initializing chat window message queue
+2025-02-10 04:43:14,%f - ollama_chat.gui.chat_window - INFO - Chat window message queue initialized
+2025-02-10 04:43:14,%f - ollama_chat.gui.chat_window - INFO - Chat window initialized
+2025-02-10 04:43:14,%f - ollama_chat.gui.app - INFO - GUI initialized
+2025-02-10 04:43:14,%f - ollama_chat.gui.app - INFO - NexusChat initialized
+2025-02-10 04:43:14,%f - ollama_chat.gui.model_selector - INFO - Loading models
+2025-02-10 04:43:14,%f - ollama_chat.backend.service - INFO - Listing models
+2025-02-10 04:43:14,%f - ollama_chat.backend.ollama_client - INFO - Listing available models
+2025-02-10 04:43:14,%f - ollama_chat.backend.ollama_client - INFO - Found 8 models: ['deepseek-coder:6.7b-base', 'deepseek-coder:1.3b', 'solar:latest', 'phi:latest', 'orca-mini:latest', 'llama3.2:latest', 'mistral:latest', 'neural-chat:latest']
+2025-02-10 04:43:14,%f - ollama_chat.gui.model_selector - INFO - Models loaded: ['deepseek-coder:6.7b-base', 'deepseek-coder:1.3b', 'solar:latest', 'phi:latest', 'orca-mini:latest', 'llama3.2:latest', 'mistral:latest', 'neural-chat:latest']
+2025-02-10 04:44:10,%f - ollama_chat.gui.chat_window - ERROR - Error processing message: BackendService.send_message() got an unexpected keyword argument 'callback'
+2025-02-10 04:44:25,%f - ollama_chat.gui.chat_window - ERROR - Error processing message: BackendService.send_message() got an unexpected keyword argument 'callback'
+2025-02-10 04:51:44,%f - ollama_chat.backend.service - INFO - Service closed
+2025-02-10 04:51:44,%f - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-3' coro=<App._update() running at /home/nulled/PROGRAMAÇÃO/NexusChat/ollama_chat/gui/app.py:111> wait_for=<Future pending cb=[Task.task_wakeup()]>>
